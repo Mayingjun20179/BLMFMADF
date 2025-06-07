@@ -1,0 +1,1287 @@
+micro_name,micro_tid,drug_name,pubchem_id,smile,Pubmed
+Candida albicans,5476,(2E)-1-[4-(4-nitrophenyl)piperazin-1-yl]-3-phenylprop-2-en-1-one,5835530,C1CN(CCN1C2=CC=C(C=C2)[N+](=O)[O-])C(=O)C=CC3=CC=CC=C3,27838185
+Candida albicans,5476,"(2E)-N-(6-nitro-1,3-benzothiazol-2-yl)-3-phenylprop-2-enamide",884448,C1=CC=C(C=C1)C=CC(=O)NC2=NC3=C(S2)C=C(C=C3)[N+](=O)[O-],27838185
+Actinomyces oris,544580,(2R)-2-amino-3-phenylmethanesulfinylpropanoic acid,335443,C1=CC=C(C=C1)CS(=O)CC(C(=O)O)N,25081571
+Staphylococcus aureus,1280,(2R)-2-amino-6-acetamidohexanoic acid,6994067,CC(=O)NCCCCC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,"(2S)-2-amino-3-(1,3-thiazol-4-yl)propanoic acid",2761495,C1=C(N=CS1)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,(2S)-2-amino-3-(tert-butylsulfanyl)propanoic acid,6951060,CC(C)(C)SCC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,(2S)-2-amino-4-bromopent-4-enoic acid,2762282,C=C(CC(C(=O)O)N)Br,25658642
+Escherichia coli,562,(5Z)-4-Bromo-5-(bromomethylene)-3-butyl-2(5H)-furanone,9839657,CCCCC1=C(C(=CBr)OC1=O)Br,15470704
+Vibrio cholerae,666,(E)-3-Decen-2-one,5363233,CCCCCCC=CC(=O)C,21249192
+Vibrio harveyi,669,(E)-3-Decen-2-one,5363233,CCCCCCC=CC(=O)C,21249192
+Haemophilus influenzae,727,(E)-Chalcone,637760,C1=CC=C(C=C1)C=CC(=O)C2=CC=CC=C2,25154700
+Staphylococcus aureus,1280,"(R)-2,3-Diaminopropanoic acid",638152,C(C(C(=O)O)N)N,25658642
+Staphylococcus aureus,1280,(R)-2-amino-3-cyclohexylpropanoic acid,736026,C1CCC(CC1)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,(R)-2-amino-3-cyclopentylpropanoic acid,6993046,C1CCC(C1)CC(C(=O)O)N,25658642
+Salmonella enterica,28901,(Z)-4-bromo-5-(bromomethylene)-3-ethyl-2(5H)-furanone,12051732,CCC1=C(C(=CBr)OC1=O)Br,20580562
+Pseudomonas aeruginosa,287,(Z)-4-bromo-5-(bromomethylene)-3-methylfuran-2(5H)-one,9900052,CC1=C(C(=CBr)OC1=O)Br,23029239
+Propionibacterium acnes,1747,"(Z)-5-decylidenethiazolidine-2,4-dione",46196601,CCCCCCCCCC=C1C(=O)NC(=O)S1,24251377
+Propionibacterium acnes,1747,"(Z)-5-octylidenethiazolidine-2,4-dione",46220260,CCCCCCCC=C1C(=O)NC(=O)S1,24251377
+Pseudomonas aeruginosa,287,"1-(3,5-dinitrophenyl)ethan-1-one",258569,CC(=O)C1=CC(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-],19855933
+Pseudomonas aeruginosa,287,1-(4-amino-2-hydroxyphenyl)ethan-1-one,459296,CC(=O)C1=C(C=C(C=C1)N)O,19855933
+Pseudomonas aeruginosa,287,1-(6-aminopyridin-3-yl)ethan-1-one,21113396,CC(=O)C1=CN=C(C=C1)N,19855933
+Pseudomonas aeruginosa,287,1-(pyrazin-2-yl)ethan-1-one,30914,CC(=O)C1=NC=CN=C1,19855933
+Pseudomonas aeruginosa,287,1-(pyridin-4-yl)ethan-1-one,14282,CC(=O)C1=CC=NC=C1,19855933
+Pseudomonas aeruginosa,287,12-methyltetradecanoic acid,21672,CCC(C)CCCCCCCCCCC(=O)O,18318842
+Pseudomonas aeruginosa,287,13-methyltetradecanoic acid,151014,CC(C)CCCCCCCCCCCC(=O)O,18318842
+Pseudomonas aeruginosa,287,14-alpha-lipoyl andrographolide,25154345,CC12CCC(C(C1CCC(=C)C2CC=C3C(COC3=O)OC(=O)CCCCC4CCSS4)(C)CO)O,19152987
+Pseudomonas aeruginosa,287,1-methanesulfonyl-4-methylbenzene,18521,CC1=CC=C(C=C1)S(=O)(=O)C,19855933
+Vibrio anguillarum,55601,2-(2-Thienylsulfonyl)ethanethioamide,2778709,C1=CSC(=C1)S(=O)(=O)CC(=S)N,19778962
+Vibrio vulnificus,672,2-(2-Thienylsulfonyl)ethanethioamide,2778709,C1=CSC(=C1)S(=O)(=O)CC(=S)N,19778962
+Aeromonas hydrophila,644,2(5H)-furanone,10341,C1C=CC(=O)O1,20140298
+Hafnia alvei,569,2(5H)-furanone,10341,C1C=CC(=O)O1,20140298
+Staphylococcus aureus,1280,2-(Aminomethyl)-L-phenylalanine,2762275,C1=CC=C(C(=C1)CC(C(=O)O)N)CN,25658642
+Staphylococcus aureus,1280,2-(Trifluoromethyl)-D-phenylalanine,7005100,C1=CC=C(C(=C1)CC(C(=O)O)N)C(F)(F)F,25658642
+Staphylococcus aureus,1280,"2,3,4,5,6-Pentafluoro-L-phenylalanine",2761496,C(C1=C(C(=C(C(=C1F)F)F)F)F)C(C(=O)O)N,25658642
+Staphylococcus aureus,1280,"2,3-Dehydrosilybin",5467200,COC1=C(C=CC(=C1)C2C(OC3=C(O2)C=C(C=C3)C4=C(C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O,26273725
+Staphylococcus aureus,1280,"2,3-dihydroxybenzoic acid",19,C1=CC(=C(C(=C1)O)O)C(=O)O,25319566
+Staphylococcus aureus,1280,"2,4-Dimethylphenylalanine",2762260,CC1=CC(=C(C=C1)CC(C(=O)O)N)C,25658642
+Staphylococcus aureus,1280,2-amino-3-(3-chlorophenyl)propanoic acid,85680,C1=CC(=CC(=C1)Cl)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,2-amino-3-(3-nitrophenyl)propanoic acid,228814,C1=CC(=CC(=C1)[N+](=O)[O-])CC(C(=O)O)N,25658642
+Streptococcus mutans,1309,2-amino-3-(propane-1-sulfinyl)propanoic acid,350625,CCCS(=O)CC(C(=O)O)N,25081571
+Burkholderia cenocepacia,95486,2-amino-4-chlorobenzoic acid,66646,C1=CC(=C(C=C1Cl)N)C(=O)O,19146953
+Burkholderia multivorans,87883,2-amino-4-chlorobenzoic acid,66646,C1=CC(=C(C=C1Cl)N)C(=O)O,19146953
+Staphylococcus aureus,1280,2-amino-5-methoxy-5-oxopentanoic acid,73913,COC(=O)CCC(C(=O)O)N,25658642
+Burkholderia cenocepacia,95486,2-amino-6-chlorobenzoic acid,75071,C1=CC(=C(C(=C1)Cl)C(=O)O)N,19146953
+Burkholderia multivorans,87883,2-amino-6-chlorobenzoic acid,75071,C1=CC(=C(C(=C1)Cl)C(=O)O)N,19146953
+Burkholderia cenocepacia,95486,2-amino-6-fluorobenzoic acid,521142,C1=CC(=C(C(=C1)F)C(=O)O)N,19146953
+Burkholderia multivorans,87883,2-amino-6-fluorobenzoic acid,521142,C1=CC(=C(C(=C1)F)C(=O)O)N,19146953
+Pseudomonas aeruginosa,287,2-bromodecanoic acid,98310,CCCCCCCCC(C(=O)O)Br,24023921
+Pseudomonas aeruginosa,287,2-bromohexanoic acid,12013,CCCCC(C(=O)O)Br,24023921
+Pseudomonas aeruginosa,287,2-bromooctanoic acid,552003,CCCCCCC(C(=O)O)Br,24023921
+Haemophilus influenzae,727,2-Hydroxychalcone,5367146,C1=CC=C(C=C1)C(=O)C=CC2=CC=CC=C2O,25154700
+Escherichia coli,562,2-Methoxy-4-propylphenol,17739,CCCC1=CC(=C(C=C1)O)OC,27808174
+Staphylococcus aureus,1280,2-Methoxy-D-Phenylalanine,10631698,COC1=CC=CC=C1CC(C(=O)O)N,25658642
+Escherichia coli,562,2-Methoxyhydroquinone,69988,COC1=C(C=CC(=C1)O)O,27808174
+Pseudomonas aeruginosa,287,2-oxindole,321710,C1C2=CC=CC=C2NC1=O,22251040
+Staphylococcus aureus,1280,3-(1-Naphthyl)-D-Alanine,6950505,C1=CC=C2C(=C1)C=CC=C2CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,3-(2-Naphthyl)alanine,250399,C1=CC=C2C=C(C=CC2=C1)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,3-(2-Naphthyl)-D-alanine,2733661,C1=CC=C2C=C(C=CC2=C1)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,3-(2-Thienyl)alanine,91444,C1=CSC(=C1)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,3-(2-Thienyl)-D-alanine,7111750,C1=CSC(=C1)CC(C(=O)O)N,25658642
+Enterococcus faecalis,1351,3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,3821570,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CC(=CC=C3)F)O,19651903
+Enterococcus faecium,1352,3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,3821570,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CC(=CC=C3)F)O,19651903
+Enterococcus gallinarum,1353,3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,3821570,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CC(=CC=C3)F)O,19651903
+Escherichia coli,562,3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,3821570,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CC(=CC=C3)F)O,19651903
+Pseudomonas aeruginosa,287,3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,3821570,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CC(=CC=C3)F)O,19651903
+Staphylococcus aureus,1280,3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,3821570,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CC(=CC=C3)F)O,19651903
+Staphylococcus epidermidis,1282,3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,3821570,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CC(=CC=C3)F)O,19651903
+Staphylococcus aureus,1280,3-(3-Pyridinyl)alanine,314100,C1=CC(=CN=C1)CC(C(=O)O)N,25658642
+Enterococcus faecalis,1351,3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,72036004,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CN=CC=C3)O,19651903
+Enterococcus faecium,1352,3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,72036004,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CN=CC=C3)O,19651903
+Enterococcus gallinarum,1353,3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,72036004,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CN=CC=C3)O,19651903
+Escherichia coli,562,3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,72036004,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CN=CC=C3)O,19651903
+Pseudomonas aeruginosa,287,3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,72036004,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CN=CC=C3)O,19651903
+Staphylococcus aureus,1280,3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,72036004,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CN=CC=C3)O,19651903
+Staphylococcus epidermidis,1282,3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,72036004,CCOC1=C(C=CC(=C1)C=C2C(=O)N(C(=S)S2)C3=CN=CC=C3)O,19651903
+Staphylococcus aureus,1280,3-(Trifluoromethyl)phenylalanine,2777602,C1=CC(=CC(=C1)C(F)(F)F)CC(C(=O)O)N,25658642
+Bacillus subtilis,1423,"3,4-Dichloro-5-[(1,3-dichloropropan-2-yloxy)]-2(5H)-furanone",122208470,C(C(CCl)OC1C(=C(C(=O)O1)Cl)Cl)Cl,25335695
+Vibrio cholerae,666,"3,4-Dichloro-cinnamaldehyde",13186065,C1=CC(=C(C=C1C=CC=O)Cl)Cl,21249192
+Vibrio harveyi,669,"3,4-Dichloro-cinnamaldehyde",13186065,C1=CC(=C(C=C1C=CC=O)Cl)Cl,21249192
+Haemophilus influenzae,727,"3,4-Dimethoxychalcone",5354494,COC1=C(C=C(C=C1)C=CC(=O)C2=CC=CC=C2)OC,25154700
+Staphylococcus aureus,1280,"3,5-Diiodotyrosine",9305,C1=C(C=C(C(=C1I)O)I)CC(C(=O)O)N,25658642
+Pseudomonas aeruginosa,287,"3,5-dimethylaniline",7949,CC1=CC(=CC(=C1)N)C,25537269
+Streptococcus mutans,1309,3-[(prop-2-ene-1-sulfinyl)sulfanyl]prop-1-ene,65036,C=CCSS(=O)CC=C,25081571
+Staphylococcus aureus,1280,3-Chlorotyrosine,110992,C1=CC(=C(C=C1CC(C(=O)O)N)Cl)O,25658642
+Pseudomonas aeruginosa,287,3-fluoroaniline,9742,C1=CC(=CC(=C1)F)N,25537269
+Staphylococcus aureus,1280,3-Fluoro-DL-phenylalanine,9976,C1=CC(=CC(=C1)F)CC(C(=O)O)N,25658642
+Haemophilus influenzae,727,3-hydroxychalcone,5358381,C1=CC=C(C=C1)C(=O)C=CC2=CC(=CC=C2)O,25154700
+Staphylococcus aureus,1280,3-Hydroxyphenylalanine,6950578,C1=CC(=CC(=C1)O)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,3-Hydroxytyrosine,836,C1=CC(=C(C=C1CC(C(=O)O)N)O)O,25658642
+Pseudomonas aeruginosa,287,3-indolylacetonitrile,351795,C1=CC=C2C(=C1)C(=CN2)CC#N,22251040
+Staphylococcus aureus,1280,3-Iodotyrosine,439744,C1=CC(=C(C=C1CC(C(=O)O)N)I)O,25658642
+Haemophilus influenzae,727,3-Methoxychalcone,5367166,COC1=CC=CC(=C1)C=CC(=O)C2=CC=CC=C2,25154700
+Staphylococcus aureus,1280,3-Methoxy-D-Phenylalanine,10420176,COC1=CC=CC(=C1)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,3-Methyl-D-phenylalanine,6993650,CC1=CC(=CC=C1)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,3-Nitro-D-tyrosine,759471,C1=CC(=C(C=C1CC(C(=O)O)N)[N+](=O)[O-])O,25658642
+Aeromonas sobria,646,3-oxo-C6-HSL,688505,CCCC(=O)CC(=O)NC1CCOC1=O,27118073
+Serratia liquefaciens,614,3-oxo-C6-HSL,688505,CCCC(=O)CC(=O)NC1CCOC1=O,27118073
+Staphylococcus aureus,1280,4-(Aminomethyl)-D-phenylalanine,7018015,C1=CC(=CC=C1CC(C(=O)O)N)CN,25658642
+Bacillus cereus,1396,"4,5-dihydroxy-2,3-pentanedione",443434,CC(=O)C(=O)C(CO)O,17169556
+Candida albicans,5476,"4,5-dihydroxy-2,3-pentanedione",443434,CC(=O)C(=O)C(CO)O,25101248
+Staphylococcus aureus,1280,4-Amino-D-phenylalanine,1268124,C1=CC(=CC=C1CC(C(=O)O)N)N,25658642
+Staphylococcus aureus,1280,4-Benzoylphenylalanine,7020128,C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)CC(C(=O)O)N,25658642
+Pseudomonas aeruginosa,287,4-bromoaniline,7807,C1=CC(=CC=C1N)Br,25537269
+Staphylococcus aureus,1280,4-Bromo-D-phenylalanine,671215,C1=CC(=CC=C1CC(C(=O)O)N)Br,20580562
+Staphylococcus aureus,1280,4-Chloro-2-fluoro-DL-phenylalanine,3745699,C1=CC(=C(C=C1Cl)F)CC(C(=O)O)N,25658642
+Pseudomonas aeruginosa,287,4-chloro-7-(trifluoromethyl)quinoline,67668,C1=CC2=C(C=CN=C2C=C1C(F)(F)F)Cl,28350449
+Pseudomonas aeruginosa,287,4-chloroaniline,7812,C1=CC(=CC=C1N)Cl,25537269
+Haemophilus influenzae,727,4-Chlorochalcone,5377022,C1=CC=C(C=C1)C(=O)C=CC2=CC=C(C=C2)Cl,25154700
+Serratia marcescens,615,4-chloroquinoline,69140,C1=CC=C2C(=C1)C(=CC=N2)Cl,28350449
+Staphylococcus aureus,1280,4-Cyanophenylalanine,1501865,C1=CC(=CC=C1CC(C(=O)O)N)C#N,25658642
+Escherichia coli,562,4-Ethylcatechol,70761,CCC1=CC(=C(C=C1)O)O,27808174
+Escherichia coli,562,4-Ethylguaiacol,62465,CCC1=CC(=C(C=C1)O)OC,27808174
+Staphylococcus aureus,1280,4-Fluoro-2-methyl-D-phenylalanine,56971782,CC1=C(C=CC(=C1)F)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,4-Fluoro-D-phenylalanine,716314,C1=CC(=CC=C1CC(C(=O)O)N)F,25658642
+Pseudomonas aeruginosa,287,4-fluoroindole,2774502,C1=CC2=C(C=CN2)C(=C1)F,22251040
+Candida albicans,5476,4H-tomentosin,15109105,CC1CC2C(CC=C1CCC(C)O)C(=C)C(=O)O2,26394911
+Escherichia coli,562,4-hydroxy coumarin,54682930,C1=CC=C2C(=C1)C(=CC(=O)O2)O,25027570
+Pseudomonas aeruginosa,287,"4-Hydroxy-2,5-dimethyl-3(2H)-furanone",19309,CC1C(=O)C(=C(O1)C)O,25085732
+Haemophilus influenzae,727,4-Hydroxychalcone,5282361,C1=CC=C(C=C1)C(=O)C=CC2=CC=C(C=C2)O,25154700
+Staphylococcus aureus,1280,4-Iodo-d-phenylalanine,2733279,C1=CC(=CC=C1CC(C(=O)O)N)I,25658642
+Pseudomonas aeruginosa,287,4-methanesulfonylaniline,79617,CS(=O)(=O)C1=CC=C(C=C1)N,19855933
+Vibrio anguillarum,55601,4-Methoxycarbonylphenylboronic acid,2734369,B(C1=CC=C(C=C1)C(=O)OC)(O)O,19778962
+Vibrio campbellii,680,4-Methoxycarbonylphenylboronic acid,2734369,B(C1=CC=C(C=C1)C(=O)OC)(O)O,19778962
+Vibrio cholerae,666,4-Methoxycarbonylphenylboronic acid,2734369,B(C1=CC=C(C=C1)C(=O)OC)(O)O,19778962
+Vibrio vulnificus,672,4-Methoxycarbonylphenylboronic acid,2734369,B(C1=CC=C(C=C1)C(=O)OC)(O)O,19778962
+Haemophilus influenzae,727,4-Methoxychalcone,641819,COC1=CC=C(C=C1)C=CC(=O)C2=CC=CC=C2,25154700
+Vibrio anguillarum,55601,4-methoxy-cinnamaldehyde,641294,COC1=CC=C(C=C1)C=CC=O,18793453
+Vibrio vulnificus,672,4-methoxy-cinnamaldehyde,641294,COC1=CC=C(C=C1)C=CC=O,18793453
+Staphylococcus aureus,1280,4-Methylphenylalanine,151513,CC1=CC=C(C=C1)CC(C(=O)O)N,25658642
+Vibrio vulnificus,672,4-nitro-cinnamaldehyde,5354135,C1=CC(=CC=C1C=CC=O)[N+](=O)[O-],18793453
+Staphylococcus aureus,1280,4-Nitro-D-phenylalanine,679497,C1=CC(=CC=C1CC(C(=O)O)N)[N+](=O)[O-],25658642
+Candida albicans,5476,"5,8,11,14-Eicosatetraynoic acid",1780,CCCCCC#CCC#CCC#CCC#CCCCC(=O)O,21903824
+Pseudomonas aeruginosa,287,5-Bromoindole,24905,C1=CC2=C(C=CN2)C=C1Br,25287229
+Pseudomonas aeruginosa,287,"5-Chloro-1-(2-chloroacetyl)indoline-2,3-dione",11368908,C1=CC2=C(C=C1Cl)C(=O)C(=O)N2C(=O)CCl,28654117
+Pseudomonas aeruginosa,287,5-Chloroindole,87110,C1=CC2=C(C=CN2)C=C1Cl,25287229
+Candida albicans,5476,"5-decyl-1,3-thiazolidine-2,4-dione",71523933,CCCCCCCCCCC1C(=O)NC(=O)S1,24078467
+Candida albicans,5476,5-Fluorocytosine,3366,C1=NC(=O)NC(=C1F)N,23689719
+Pseudomonas aeruginosa,287,5-fluoroindole,67861,C1=CC2=C(C=CN2)C=C1F,22251040
+Pseudomonas aeruginosa,287,5-Fluorouracil,3385,C1=C(C(=O)NC(=O)N1)F,28261183
+Candida albicans,5476,"5-octyl-1,3-thiazolidine-2,4-dione",16058685,CCCCCCCCC1C(=O)NC(=O)S1,24078467
+Escherichia coli,562,6-Aminoflavone,16217320,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=CC(=C3)N,21930760
+Pseudomonas aeruginosa,287,6-Chloroindole,87111,C1=CC(=CC2=C1C=CN2)Cl,25287229
+Pseudomonas aeruginosa,287,6-Chlorooxindole,736344,C1C2=C(C=C(C=C2)Cl)NC1=O,25287229
+Pseudomonas aeruginosa,287,6-fluoroindole,351278,C1=CC(=CC2=C1C=CN2)F,22251040
+Pseudomonas aeruginosa,287,6-Gingerol,442793,CCCCCC(CC(=O)CCC1=CC(=C(C=C1)O)OC)O,25728862
+Escherichia coli,562,6-hydroxyflavone,72279,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=CC(=C3)O,21930760
+Pseudomonas aeruginosa,287,7-bromoindole,2757020,C1=CC2=C(C(=C1)Br)NC=C2,22251040
+Pseudomonas aeruginosa,287,7-chloroindole,104644,C1=CC2=C(C(=C1)Cl)NC=C2,22251040
+Serratia marcescens,615,7-chloroquinolin-4-ol,66593,C1=CC2=C(C=C1Cl)NC=CC2=O,28350449
+Pseudomonas aeruginosa,287,7-fluoroindole,2774504,C1=CC2=C(C(=C1)F)NC=C2,22251040
+Pseudomonas aeruginosa,287,"7-fluoroindoline-2,3-dione",586418,C1=CC2=C(C(=C1)F)NC(=O)C2=O,22251040
+Pseudomonas aeruginosa,287,7-formylindole,2734629,C1=CC2=C(C(=C1)C=O)NC=C2,22251040
+Pseudomonas aeruginosa,287,7-hydroxyindole,2737651,C1=CC2=C(C(=C1)O)NC=C2,22251040
+Pseudomonas aeruginosa,287,7-methoxyindole,76660,COC1=CC=CC2=C1NC=C2,22251040
+Pseudomonas aeruginosa,287,7-methylindole,70275,CC1=C2C(=CC=C1)C=CN2,22251040
+Pseudomonas aeruginosa,287,7-nitroindole,23396,C1=CC2=C(C(=C1)[N+](=O)[O-])NC=C2,22251040
+Pseudomonas aeruginosa,287,8-fluoroquinoline,67856,C1=CC2=C(C(=C1)F)N=CC=C2,22251040
+Porphyromonas gingivalis,837,"9-hydroxy-2-propyl-4H-pyrido[1,2-a]pyrimidin-4-one",12219996,CCCC1=CC(=O)N2C=CC=C(C2=N1)O,19778324
+Candida albicans,5476,A-3,1960,C1=CC2=C(C=CC=C2Cl)C(=C1)S(=O)(=O)NCCN,21903824
+Human immunodeficiency virus 1,11676,Abacavir,441300,C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)C4CC(C=C4)CO,8760340
+Pseudomonas aeruginosa,287,Aceroside VIII,44715463,C1C(C(C(O1)OCC2C(C(C(C(O2)OC(CCCCC3=CC=C(C=C3)O)CCC4=CC=C(C=C4)O)O)O)O)O)(CO)O,27220074
+Proteus mirabilis,584,Acetohydroxamic Acid,1990,CC(=O)NO,9760002
+Enterobacter aerogenes,548,Acetohydroxamic Acid,1990,CC(=O)NO,11101668
+Candida tropicalis,5482,AFP1,5484726,C1CC(=O)C2=C1C3=C(C4=C(C=C3O)OC5C4C=CO5)OC2=O,21736910
+Pseudomonas aeruginosa,287,Ajoene,5386591,C=CCSSC=CCS(=O)CC=C,22314537
+Shewanella oneidensis,70863,Albendazole,2082,CCCSC1=CC2=C(C=C1)N=C(N2)NC(=O)OC,6518278
+Candida albicans,5476,Alexidine dihydrochloride,102678,CCCCC(CC)CN=C(N)NC(=NCCCCCCN=C(N)NC(=NCC(CC)CCCC)N)N.Cl.Cl,23689719
+Streptococcus mutans,1309,Aloe-emodin,10207,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)CO,17220400
+Candida albicans,5476,alpha-costic acid,89043384,CC1=CCCC2(C1CC(CC2)C(=C)C(=O)O)C,26394911
+Candida albicans,5476,alpha-Humulene,5281520,CC1=CCC(C=CCC(=CCC1)C)(C)C,2815533
+Candida albicans,5476,alpha-Longipinene,12311396,CC1=CCC2C3C1C2(CCCC3(C)C)C,28155334
+Staphylococcus epidermidis,1282,alpha-mangostin,5281650,CC(=CCC1=C(C2=C(C=C1O)OC3=C(C2=O)C(=C(C(=C3)O)OC)CC=C(C)C)O)C,2834324
+Bacillus cereus,1396,alpha-Pinene,6654,CC1=CCC2CC1C2(C)C,23789847
+Escherichia coli,562,alpha-Pinene,6654,CC1=CCC2CC1C2(C)C,23789847
+Candida albicans,5476,alpha-Pinene,6654,CC1=CCC2CC1C2(C)C,28155334
+Staphylococcus aureus,1280,alpha-tocopherol,14985,CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C,28869803
+Escherichia coli,562,Amikacin,37768,C1C(C(C(C(C1NC(=O)C(CCN)O)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)O)N,10702385
+Morganella morganii,582,Amikacin,37768,C1C(C(C(C(C1NC(=O)C(CCN)O)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)O)N,15528892
+Proteus vulgaris,585,Amikacin,37768,C1C(C(C(C(C1NC(=O)C(CCN)O)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)O)N,15528892
+Providencia stuartii,588,Amikacin,37768,C1C(C(C(C(C1NC(=O)C(CCN)O)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)O)N,15528892
+Escherichia coli,562,Amikacin disulfate salt,19082597,C1C(C(C(C(C1NC(=O)C(CCN)O)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)O)N.OS(=O)(=O)O.OS(=O)(=O)O,24159313
+Pseudomonas aeruginosa,287,Aminocyclopropane,69828,C1CC1N,25537269
+Mycobacterium tuberculosis,1773,Aminosalicylic Acid,4649,C1=CC(=C(C=C1N)O)C(=O)O,17016423
+Bacillus subtilis,1423,Amlodipine,2162,CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN,25038633
+Bacillus subtilis,1423,Amoxicillin,33613,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C,25038633
+Listeria monocytogenes,1639,Amoxicillin,33613,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C,25136010
+Candida albicans,5476,Amphotericin B,5280965,CC1C=CC=CC=CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC(C(CCC(CC(CC(=O)OC(C(C1O)C)C)O)O)O)O)O)O)O)C(=O)O)OC3C(C(C(C(O3)C)O)N)O,16086075
+Streptococcus pneumoniae,1313,Ampicillin,6249,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C,7447421
+Pseudomonas aeruginosa,287,Ampicillin,6249,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C,24705563
+Bacillus subtilis,1423,Ampicillin,6249,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C,25038633
+Listeria monocytogenes,1639,Ampicillin,6249,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C,25136010
+Staphylococcus aureus,1280,Ampicillin,6249,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C,25764489
+Human immunodeficiency virus 1,11676,Amprenavir,65016,CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2CCOC2)O)S(=O)(=O)C3=CC=C(C=C3)N,10390223
+Aspergillus niger,5061,Anidulafungin,166548,CCCCCOC1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C(=O)NC4CC(C(NC(=O)C5C(C(CN5C(=O)C(NC(=O)C(NC(=O)C6CC(CN6C(=O)C(NC4=O)C(C)O)O)C(C(C7=CC=C(C=C7)O)O)O)C(C)O)C)O)O)O,16960253
+Pseudomonas aeruginosa,287,Aniline,6115,C1=CC=C(C=C1)N,25537269
+Streptococcus mutans,1309,Anthraflavic acid,6776,C1=CC2=C(C=C1O)C(=O)C3=C(C2=O)C=C(C=C3)O,17220400
+Bacillus subtilis,1423,Anthranilate,227,C1=CC=C(C(=C1)C(=O)O)N,28819217
+Pseudomonas aeruginosa,287,Anthranilate,227,C1=CC=C(C(=C1)C(=O)O)N,28819217
+Salmonella enterica,28901,Anthranilate,227,C1=CC=C(C(=C1)C(=O)O)N,28819217
+Vibrio vulnificus,672,Anthranilate,227,C1=CC=C(C(=C1)C(=O)O)N,28819217
+Escherichia coli,562,Apigenin,5280443,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,20163489
+Vibrio harveyi,669,Apigenin,5280443,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,20163489
+Escherichia coli,562,Arbekacin,68682,C1CC(C(OC1CN)OC2C(CC(C(C2O)OC3C(C(C(C(O3)CO)O)N)O)NC(=O)C(CCN)O)N)N,320034
+Pseudomonas aeruginosa,287,Asperdiol,5358793,CC1=CCCC2(C(O2)CCC(=CC(C(CC1)C(=C)C)O)CO)C,22905751
+Staphylococcus aureus,1280,Asperdiol,5358793,CC1=CCCC2(C(O2)CCC(=CC(C(CC1)C(=C)C)O)CO)C,22905751
+Vibrio harveyi,669,Asperdiol,5358793,CC1=CCCC2(C(O2)CCC(=CC(C(CC1)C(=C)C)O)CO)C,22905751
+Pseudomonas aeruginosa,287,Asperdiol acetate,6442232,CC1=CCCC2(C(O2)CCC(=CC(C(CC1)C(=C)C)O)COC(=O)C)C,22905751
+Staphylococcus aureus,1280,Asperdiol acetate,6442232,CC1=CCCC2(C(O2)CCC(=CC(C(CC1)C(=C)C)O)COC(=O)C)C,22905751
+Vibrio harveyi,669,Asperdiol acetate,6442232,CC1=CCCC2(C(O2)CCC(=CC(C(CC1)C(=C)C)O)COC(=O)C)C,22905751
+Candida albicans,5476,Aspirin,2244,CC(=O)OC1=CC=CC=C1C(=O)O,14693516
+Human immunodeficiency virus 1,11676,Atazanavir,148192,CC(C)(C)C(C(=O)NC(CC1=CC=CC=C1)C(CN(CC2=CC=C(C=C2)C3=CC=CC=N3)NC(=O)C(C(C)(C)C)NC(=O)OC)O)NC(=O)OC,11752352
+Human immunodeficiency virus,12721,Atazanavir,148192,CC(C)(C)C(C(=O)NC(CC1=CC=CC=C1)C(CN(CC2=CC=C(C=C2)C3=CC=CC=N3)NC(=O)C(C(C)(C)C)NC(=O)OC)O)NC(=O)OC,15585441
+Plasmodium falciparum,5833,Atovaquone,74989,C1CC(CCC1C2=CC=C(C=C2)Cl)C3=C(C4=CC=CC=C4C(=O)C3=O)O,7726490
+Candida albicans,5476,Auranofin,16667669,CCP(CC)CC.CC(=O)OCC1C(C(C(C(O1)[S-])OC(=O)C)OC(=O)C)OC(=O)C.[Au+],23689719
+Staphylococcus epidermidis,1282,Autoinducer-2,446576,[B-]1(OC2(C(O1)(C(CO2)O)O)C)(O)O,16369005
+Candida albicans,5476,Avermectin B1a,6434889,CCC(C)C1C(C=CC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)O)OC)OC)C)C,23689719
+Enterobacter cloacae,550,Avibactam,9835049,C1CC(N2CC1N(C2=O)OS(=O)(=O)O)C(=O)N,22041508
+Escherichia coli,562,Avibactam,9835049,C1CC(N2CC1N(C2=O)OS(=O)(=O)O)C(=O)N,22041508
+Klebsiella pneumoniae,573,Avibactam,9835049,C1CC(N2CC1N(C2=O)OS(=O)(=O)O)C(=O)N,22041508
+Pseudomonas aeruginosa,287,Avibactam,9835049,C1CC(N2CC1N(C2=O)OS(=O)(=O)O)C(=O)N,22041508
+Streptococcus pneumoniae,1313,Azidocillin,15574941,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N=[N+]=[N-])C(=O)O)C,7447421
+Pseudomonas aeruginosa,287,Azithromycin,447043,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O,8983885
+Mycobacterium avium,1764,Azithromycin,447043,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O,15561879
+Burkholderia cenocepacia,95486,Azithromycin,447043,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O,19146953
+Burkholderia multivorans,87883,Azithromycin,447043,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O,19146953
+Staphylococcus aureus,1280,Azithromycin,447043,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O,23070152
+Listeria monocytogenes,1639,Azlocillin,6479523,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)NC(=O)N4CCNC4=O)C(=O)O)C,25136010
+Bacillus subtilis,1423,Aztreonam,5742832,CC1C(C(=O)N1S(=O)(=O)O)NC(=O)C(=NOC(C)(C)C(=O)O)C2=CSC(=N2)N,2244291
+Citrobacter freundii,546,Aztreonam,5742832,CC1C(C(=O)N1S(=O)(=O)O)NC(=O)C(=NOC(C)(C)C(=O)O)C2=CSC(=N2)N,16048994
+Streptococcus mutans,1309,Bac8C,101744013,CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(C(C)C)C(=O)NC(C(C)CC)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(=O)N)NC(=O)C(CCCN=C(N)N)N,24309076
+Burkholderia pseudomallei,28450,Bactenecin,163998,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)N1)CCCN=C(N)N)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)N)C(=O)NC(CCCN=C(N)N)C(=O)O)C(C)C)CCCN=C(N)N)C(C)CC)C(C)C)C(C)C,23785532
+Pseudomonas aeruginosa,287,Baicalein,5281605,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,18330563
+Burkholderia cenocepacia,95486,Baicalein,5281605,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,19146953
+Burkholderia multivorans,87883,Baicalein,5281605,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,19146953
+Staphylococcus aureus,1280,Baicalein,5281605,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,27128436
+Pseudomonas aeruginosa,287,Baicalin,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O,18330563
+Mycobacterium tuberculosis,1773,Bedaquiline,5388906,CN(C)CCC(C1=CC=CC2=CC=CC=C21)(C(C3=CC=CC=C3)C4=C(N=C5C=CC(=CC5=C4)Br)OC)O,17496888
+Vibrio cholerae,666,Benzalacetone,637759,CC(=O)C=CC1=CC=CC=C1,21249192
+Vibrio harveyi,669,Benzalacetone,637759,CC(=O)C=CC1=CC=CC=C1,21249192
+Neisseria gonorrhoeae,485,Benzathine benzylpenicillin,25137901,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)[O-])C.CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)[O-])C.C1=CC=C(C=C1)C[NH2+]CC[NH2+]CC2=CC=CC=C2,3245263
+Candida albicans,5476,Benzbromarone,2333,CCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)Br)O)Br,23689719
+Candida albicans,5476,Benzethonium chloride,8478,CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCC[N+](C)(C)CC2=CC=CC=C2.[Cl-],23689719
+Pseudomonas aeruginosa,287,Benzocaine,2337,CCOC(=O)C1=CC=C(C=C1)N,25537269
+Propionibacterium acnes,1747,Benzoylperoxide,7187,C1=CC=C(C=C1)C(=O)OOC(=O)C2=CC=CC=C2,24251377
+Staphylococcus aureus,1280,Benzylpenicillin,5904,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C,3245263
+Escherichia coli,562,Benzylpenicillin,5904,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C,3257523
+Escherichia coli,562,Bergamottin,5471349,CC(=CCCC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C)C,23891936
+Haemophilus influenzae,727,Besifloxacin,10178705,C1CCN(CC(C1)N)C2=C(C=C3C(=C2Cl)N(C=C(C3=O)C(=O)O)C4CC4)F,20030427
+Candida albicans,5476,beta-Caryophyllene,5281515,CC1=CCCC(=C)C2CC(C2CC1)(C)C,28155334
+Candida albicans,5476,beta-Pinene,14896,CC1(C2CCC(=C)C1C2)C,28155334
+Escherichia coli,562,beta-sitosterol glucoside,5742590,CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)OC5C(C(C(C(O5)CO)O)O)O)C)C)C(C)C,23891936
+Acinetobacter sp.,472,Betulin,72326,CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO,24944110
+Bacillus amyloliquefaciens,1390,Betulin,72326,CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO,24944110
+Hafnia paralvei,546367,Betulin,72326,CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO,24944110
+Obesumbacterium proteus,82983,Betulin,72326,CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO,24944110
+Pseudomonas aeruginosa,287,Betulin,72326,CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO,24944110
+Serratia marcescens,615,Betulin,72326,CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO,24944110
+Escherichia coli,562,Betulinic acid,64971,CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)C(=O)O,24067082
+Human immunodeficiency virus 1,11676,Bevirimat,457928,CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)OC(=O)CC(C)(C)C(=O)O)C)C(=O)O,18043758
+Candida albicans,5476,Bifonazole,2378,C1=CC=C(C=C1)C2=CC=C(C=C2)C(C3=CC=CC=C3)N4C=CN=C4,25302529
+Staphylococcus aureus,1280,Biphenyl,7095,C1=CC=C(C=C1)C2=CC=CC=C2,25007234
+Burkholderia pseudomallei,28450,BMAP-18,168510728,CC(C)CC(C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)O)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC2=CC=CC=C2)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC3=CC=CC=C3)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCCN)NC(=O)C(CC4=CC=CC=C4)NC(=O)C(CCCNC(=N)N)NC(=O)CN,23785532
+Pseudomonas aeruginosa,287,BMAP-27,16130511,CCC(C)C(C(=O)N1CCCC1C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CC2=CN=CN2)C(=O)NC(CC(C)C)C(=O)N)NC(=O)C(C(C)C)NC(=O)C3CCCN3C(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CC=CC=C4)NC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCCN)NC(=O)C(CC7=CC=CC=C7)NC(=O)C(CCCNC(=N)N)NC(=O)CN,21849157
+Staphylococcus aureus,1280,BMAP-27,16130511,CCC(C)C(C(=O)N1CCCC1C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CC2=CN=CN2)C(=O)NC(CC(C)C)C(=O)N)NC(=O)C(C(C)C)NC(=O)C3CCCN3C(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CC=CC=C4)NC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCCN)NC(=O)C(CC7=CC=CC=C7)NC(=O)C(CCCNC(=N)N)NC(=O)CN,21849157
+Stenotrophomonas maltophilia,40324,BMAP-27,16130511,CCC(C)C(C(=O)N1CCCC1C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CC2=CN=CN2)C(=O)NC(CC(C)C)C(=O)N)NC(=O)C(C(C)C)NC(=O)C3CCCN3C(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CC=CC=C4)NC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCCN)NC(=O)C(CC7=CC=CC=C7)NC(=O)C(CCCNC(=N)N)NC(=O)CN,21849157
+Staphylococcus aureus,1280,BMAP-28,16131512,CCC(C)C(C(=O)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C1CCCN1C(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C2CCCN2C(=O)CNC(=O)C(CC3=CC=C(C=C3)O)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CNC5=CC=CC=C54)NC(=O)C(C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(C(C)CC)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)CNC(=O)CN,16621147
+Enterococcus faecalis,1351,BMAP-28,16131512,CCC(C)C(C(=O)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C1CCCN1C(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C2CCCN2C(=O)CNC(=O)C(CC3=CC=C(C=C3)O)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CNC5=CC=CC=C54)NC(=O)C(C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(C(C)CC)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)CNC(=O)CN,18430491
+Pseudomonas aeruginosa,287,BMAP-28,16131512,CCC(C)C(C(=O)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C1CCCN1C(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C2CCCN2C(=O)CNC(=O)C(CC3=CC=C(C=C3)O)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CNC5=CC=CC=C54)NC(=O)C(C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(C(C)CC)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)CNC(=O)CN,21849157
+Stenotrophomonas maltophilia,40324,BMAP-28,16131512,CCC(C)C(C(=O)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C1CCCN1C(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C2CCCN2C(=O)CNC(=O)C(CC3=CC=C(C=C3)O)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CNC5=CC=CC=C54)NC(=O)C(C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(C(C)CC)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)CNC(=O)CN,21849157
+Candida albicans,5476,BMAP-28,16131512,CCC(C)C(C(=O)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C1CCCN1C(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C2CCCN2C(=O)CNC(=O)C(CC3=CC=C(C=C3)O)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CNC5=CC=CC=C54)NC(=O)C(C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(C(C)CC)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)CNC(=O)CN,26238597
+Candida glabrata,5478,BMAP-28,16131512,CCC(C)C(C(=O)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C1CCCN1C(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C2CCCN2C(=O)CNC(=O)C(CC3=CC=C(C=C3)O)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CNC5=CC=CC=C54)NC(=O)C(C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(C(C)CC)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)CNC(=O)CN,26238597
+Candida krusei,4909,BMAP-28,16131512,CCC(C)C(C(=O)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C1CCCN1C(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(C(C)CC)NC(=O)C2CCCN2C(=O)CNC(=O)C(CC3=CC=C(C=C3)O)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CNC5=CC=CC=C54)NC(=O)C(C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(C(C)CC)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)CNC(=O)CN,26238597
+Human immunodeficiency virus 1,11676,Brecanavir,5743186,CC1=NC(=CS1)COC2=CC=C(C=C2)CC(C(CN(CC(C)C)S(=O)(=O)C3=CC4=C(C=C3)OCO4)O)NC(=O)OC5COC6C5CCO6,16723584
+Salmonella enterica,28901,Bromohexylmaleic anhydride,52942342,CCCCCCC1=C(C(=O)OC1=O)Br,20580562
+Candida albicans,5476,BS-34,29314,CC(C(C1=CC=CC=C1)O)[NH2+]CC2=CC(=C(C=C2)OC)OC.[Cl-],22174935
+Serratia marcescens,615,"Butane-1,4-diamine",1045,C(CCN)CN,28350449
+Candida albicans,5476,Butanol,263,CCCCO,24688528
+Haemophilus influenzae,727,Butein,5281222,C1=CC(=C(C=C1C=CC(=O)C2=C(C=C(C=C2)O)O)O)O,25154700
+Candida albicans,5476,Butenafine hydrochloride,443867,CC(C)(C)C1=CC=C(C=C1)CN(C)CC2=CC=CC3=CC=CC=C32.Cl,23689719
+Candida albicans,5476,Butoconazole,47472,C1=CC(=C(C(=C1)Cl)SC(CCC2=CC=C(C=C2)Cl)CN3C=CN=C3)Cl,2184984
+Candida albicans,5476,Butoconazole nitrate,47471,C1=CC(=C(C(=C1)Cl)SC(CCC2=CC=C(C=C2)Cl)CN3C=CN=C3)Cl.[N+](=O)(O)[O-],23689719
+Pseudomonas aeruginosa,287,Butyl gallate,14128,CCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,2401679
+Enterococcus faecalis,1351,Butyl gallate,14128,CCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus aureus,1280,Butyl gallate,14128,CCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus epidermidis,1282,Butyl gallate,14128,CCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Streptococcus mutans,1309,Butyl gallate,14128,CCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Aeromonas sobria,646,C4-HSL,10130163,CCCC(=O)NC1CCOC1=O,27118073
+Serratia liquefaciens,614,C4-HSL,10130163,CCCC(=O)NC1CCOC1=O,27118073
+Hafnia alvei,569,C4-HSL,10130163,CCCC(=O)NC1CCOC1=O,28379194
+Pseudomonas chlororaphis,587753,C6-HSL,10058590,CCCCCC(=O)NC1CCOC1=O,16897305
+Aeromonas sobria,646,C6-HSL,10058590,CCCCCC(=O)NC1CCOC1=O,27118073
+Serratia liquefaciens,614,C6-HSL,10058590,CCCCCC(=O)NC1CCOC1=O,27118073
+Hafnia alvei,569,C6-HSL,10058590,CCCCCC(=O)NC1CCOC1=O,28379194
+Trueperella pyogenes,1661,C8-HSL,6914579,CCCCCCCC(=O)NC1CCOC1=O,28144921
+Pseudomonas aeruginosa,287,Cadmium Ion,31193,[Cd+2],24958247
+Staphylococcus aureus,1280,Caffeic Acid,689043,C1=CC(=C(C=C1C=CC(=O)O)O)O,22242149
+Escherichia coli,562,Caffeic Acid,689043,C1=CC(=C(C=C1C=CC(=O)O)O)O,24067082
+Pseudomonas aeruginosa,287,Caffeic Acid,689043,C1=CC(=C(C=C1C=CC(=O)O)O)O,26370951
+Pseudomonas aeruginosa,287,Caffeine,2519,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,26000026
+Human immunodeficiency virus 1,11676,Calanolide A,64972,CCCC1=CC(=O)OC2=C1C3=C(C=CC(O3)(C)C)C4=C2C(C(C(O4)C)C)O,11366704
+Pseudomonas fluorescens,294,Calcium chloride,5284359,[Cl-].[Cl-].[Ca+2],2624463
+Staphylococcus aureus,1280,CAMA,73555192,C[As](=O)(O)[O-].C[As](=O)(O)[O-].[Ca+2],23070152
+Candida albicans,5476,Camphene,6616,CC1(C2CCC(C2)C1=C)C,28155334
+Mycobacterium tuberculosis,1773,Capreomycin,3000502,CC1C(=O)NC(C(=O)NC(=CNC(=O)N)C(=O)NC(C(=O)NCC(C(=O)N1)N)C2CCN=C(N2)N)CNC(=O)CC(CCCN)N.C1CN=C(NC1C2C(=O)NCC(C(=O)NC(C(=O)NC(C(=O)NC(=CNC(=O)N)C(=O)N2)CNC(=O)CC(CCCN)N)CO)N)N,16857584
+Candida albicans,5476,Carabrol,15690483,CC(CCC1C2C1(CC3C(C2)C(=C)C(=O)O3)C)O,26394911
+Candida albicans,5476,Carabrone,164879,CC(=O)CCC1C2C1(CC3C(C2)C(=C)C(=O)O3)C,26394911
+Escherichia coli,562,Carbonyl cyanide m-chlorophenylhydrazone,2603,C1=CC(=CC(=C1)Cl)NN=C(C#N)C#N,24176982
+Pseudomonas aeruginosa,287,Carbonyl cyanide m-chlorophenylhydrazone,2603,C1=CC(=CC(=C1)Cl)NN=C(C#N)C#N,24176982
+Staphylococcus aureus,1280,Carbonyl cyanide m-chlorophenylhydrazone,2603,C1=CC(=CC(=C1)Cl)NN=C(C#N)C#N,24176982
+Burkholderia cepacia,292,Carboxymethyl chitosan,118797615,CC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)N)O)CO)CO)OC3C(C(C(C(O3)CO)O)O)N)O,28756196
+Escherichia coli,562,Carboxymethyl chitosan,118797615,CC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)N)O)CO)CO)OC3C(C(C(C(O3)CO)O)O)N)O,28756196
+Kocuria rhizophila,72000,Carboxymethyl chitosan,118797615,CC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)N)O)CO)CO)OC3C(C(C(C(O3)CO)O)O)N)O,28756196
+Pseudomonas aeruginosa,287,Carboxymethyl chitosan,118797615,CC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)N)O)CO)CO)OC3C(C(C(C(O3)CO)O)O)N)O,28756196
+Staphylococcus aureus,1280,Carboxymethyl chitosan,118797615,CC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)N)O)CO)CO)OC3C(C(C(C(O3)CO)O)O)N)O,28756196
+Staphylococcus epidermidis,1282,Carboxymethyl chitosan,118797615,CC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)N)O)CO)CO)OC3C(C(C(C(O3)CO)O)O)N)O,28756196
+Streptococcus mutans,1309,Carminic acid,10255083,CC1=C2C(=CC(=C1C(=O)O)O)C(=O)C3=C(C2=O)C(=C(C(=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O,17220400
+Actinomyces oris,544580,Carnitine hydrochloride,5970,C[N+](C)(C)CC(CC(=O)O)O.[Cl-],25081571
+Streptococcus mutans,1309,Carnitine hydrochloride,5970,C[N+](C)(C)CC(CC(=O)O)O.[Cl-],25081571
+Streptococcus mutans,1309,Carolacton,56935649,CC1CCCC(C(OC(=O)C(C(C=C1)O)O)C(=CC(C)C(=O)C(C)C(CC(=O)O)OC)C)C,24094824
+Chromobacterium violaceum,536,Carvacrol,10364,CC1=C(C=C(C=C1)C(C)C)O,24691035
+Pseudomonas aeruginosa,287,Carvacrol,10364,CC1=C(C=C(C=C1)C(C)C)O,24691035
+Salmonella enterica,28901,Carvacrol,10364,CC1=C(C=C(C=C1)C(C)C)O,24691035
+Staphylococcus aureus,1280,Carvacrol,10364,CC1=C(C=C(C=C1)C(C)C)O,24691035
+Escherichia coli,562,Carvacrol,10364,CC1=C(C=C(C=C1)C(C)C)O,27808174
+Streptococcus mutans,1309,Carvacrol,10364,CC1=C(C=C(C=C1)C(C)C)O,28233286
+Candida albicans,5476,Caspofungin,16119814,CCC(C)CC(C)CCCCCCCCC(=O)NC1CC(C(NC(=O)C2C(CCN2C(=O)C(NC(=O)C(NC(=O)C3CC(CN3C(=O)C(NC1=O)C(C)O)O)C(C(C4=CC=C(C=C4)O)O)O)C(CCN)O)O)NCCN)O,12384370
+Burkholderia cenocepacia,95486,Catechin,9064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,19146953
+Burkholderia multivorans,87883,Catechin,9064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,19146953
+Pseudomonas aeruginosa,287,Catechin,9064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,19854927
+Eikenella corrodens,539,Catechin,9064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,21150103
+Eikenella corrodens,539,Catechin gallate,5276454,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,21150103
+Pseudomonas aeruginosa,287,Cathelicidin,16198951,CCC(C)C(C(=O)NCC(=O)NC(CCCCN)C(=O)NC(CCC(=O)O)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)CC)C(=O)NC(C(C)C)C(=O)NC(CCC(=O)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)CC)C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)NC(CC2=CC=CC=C2)C(=O)NC(CC(C)C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)N)C(=O)NC(CC(C)C)C(=O)NC(C(C)C)C(=O)N3CCCC3C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)O)C(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)O)NC(=O)C(CCCCN)NC(=O)C(CCC(=O)O)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC4=CC=CC=C4)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CC(=O)O)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CC(C)C)N,18591225
+Staphylococcus epidermidis,1282,Cathelicidin,16198951,CCC(C)C(C(=O)NCC(=O)NC(CCCCN)C(=O)NC(CCC(=O)O)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)CC)C(=O)NC(C(C)C)C(=O)NC(CCC(=O)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)CC)C(=O)NC(CCCCN)C(=O)NC(CC(=O)O)C(=O)NC(CC2=CC=CC=C2)C(=O)NC(CC(C)C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)N)C(=O)NC(CC(C)C)C(=O)NC(C(C)C)C(=O)N3CCCC3C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)O)C(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)O)NC(=O)C(CCCCN)NC(=O)C(CCC(=O)O)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC4=CC=CC=C4)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CC(=O)O)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CC(C)C)N,20002576
+Pseudomonas aeruginosa,287,Cecropin B,16130488,CCC(C)C(C(=O)NC(C(C)C)C(=O)NC(CCCCN)C(=O)NC(C)C(=O)NCC(=O)N1CCCC1C(=O)NC(C)C(=O)NC(C(C)CC)C(=O)NC(C)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(C)C(=O)NC(CCCCN)C(=O)NC(C)C(=O)NC(CC(C)C)C(=O)N)NC(=O)CNC(=O)C(CC(=O)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)CC)NC(=O)C(CC(=O)N)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)C(CCSC)NC(=O)C(CCCCN)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)CC)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC2=CC=CC=C2)NC(=O)C(C(C)C)NC(=O)C(CCCCN)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CCCCN)N,23732798
+Escherichia coli,562,Cefacetrile,91562,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)CC#N)SC1)C(=O)O,2722720
+Streptococcus pneumoniae,1313,Cefaclor,51039,C1C(=C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)Cl,1622180
+Listeria monocytogenes,1639,Cefaclor,51039,C1C(=C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)Cl,25136010
+Streptococcus pneumoniae,1313,Cefadroxil,47965,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)SC1)C(=O)O,7447421
+Listeria monocytogenes,1639,Cefalonium,21743,C1C(=C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CS3)C(=O)[O-])C[N+]4=CC=C(C=C4)C(=O)N,25136010
+Staphylococcus aureus,1280,Cefalonium,21743,C1C(=C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CS3)C(=O)[O-])C[N+]4=CC=C(C=C4)C(=O)N,26828772
+Streptococcus pneumoniae,1313,Cefalotin,6024,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)CC3=CC=CS3)SC1)C(=O)O,7447421
+Escherichia coli,562,Cefalotin,6024,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)CC3=CC=CS3)SC1)C(=O)O,15689162
+Bacteroides fragilis,817,Cefamandole,456255,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)NC(=O)C(C4=CC=CC=C4)O)SC2)C(=O)O,3266730
+Escherichia coli,562,Cefazolin,33255,CC1=NN=C(S1)SCC2=C(N3C(C(C3=O)NC(=O)CN4C=NN=N4)SC2)C(=O)O,2722720
+Staphylococcus aureus,1280,Cefazolin,33255,CC1=NN=C(S1)SCC2=C(N3C(C(C3=O)NC(=O)CN4C=NN=N4)SC2)C(=O)O,26828772
+Streptococcus pneumoniae,1313,Cefditoren,9870843,CC1=C(SC=N1)C=CC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)O,17724158
+Pseudomonas aeruginosa,287,Cefepime,5479537,C[N+]1(CCCC1)CC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)[O-],8150771
+Haemophilus influenzae,727,Cefixime,5362065,C=CC1=C(N2C(C(C2=O)NC(=O)C(=NOCC(=O)O)C3=CSC(=N3)N)SC1)C(=O)O,16940068
+Bacillus subtilis,1423,Cefixime,5362065,C=CC1=C(N2C(C(C2=O)NC(=O)C(=NOCC(=O)O)C3=CSC(=N3)N)SC1)C(=O)O,25038633
+Listeria monocytogenes,1639,Cefixime,5362065,C=CC1=C(N2C(C(C2=O)NC(=O)C(=NOCC(=O)O)C3=CSC(=N3)N)SC1)C(=O)O,25136010
+Klebsiella pneumoniae,573,Cefixime,5362065,C=CC1=C(N2C(C(C2=O)NC(=O)C(=NOCC(=O)O)C3=CSC(=N3)N)SC1)C(=O)O,28692914
+Proteus mirabilis,584,Cefixime,5362065,C=CC1=C(N2C(C(C2=O)NC(=O)C(=NOCC(=O)O)C3=CSC(=N3)N)SC1)C(=O)O,28692914
+Staphylococcus aureus,1280,Cefixime,5362065,C=CC1=C(N2C(C(C2=O)NC(=O)C(=NOCC(=O)O)C3=CSC(=N3)N)SC1)C(=O)O,28692914
+Streptococcus mutans,1309,Cefixime,5362065,C=CC1=C(N2C(C(C2=O)NC(=O)C(=NOCC(=O)O)C3=CSC(=N3)N)SC1)C(=O)O,28692914
+Escherichia coli,562,Cefmenoxime,9570757,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)O,6941742
+Escherichia coli,562,Cefmetazole,42008,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)(NC(=O)CSCC#N)OC)SC2)C(=O)O,3898066
+Staphylococcus aureus,1280,Cefmetazole,42008,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)(NC(=O)CSCC#N)OC)SC2)C(=O)O,3915273
+Listeria monocytogenes,1639,Cefmetazole,42008,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)(NC(=O)CSCC#N)OC)SC2)C(=O)O,25136010
+Escherichia coli,562,Cefonicid,43594,C1C(=C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)O)C(=O)O)CSC4=NN=NN4CS(=O)(=O)O,6376452
+Escherichia coli,562,Cefoperazone,44187,CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=C(C=C2)O)C(=O)NC3C4N(C3=O)C(=C(CS4)CSC5=NN=NN5C)C(=O)O,6448021
+Pseudomonas aeruginosa,287,Cefoperazone,44187,CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=C(C=C2)O)C(=O)NC3C4N(C3=O)C(=C(CS4)CSC5=NN=NN5C)C(=O)O,6448021
+Bacteroides fragilis,817,Ceforanide,43507,C1C(=C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3CN)C(=O)O)CSC4=NN=NN4CC(=O)O,3266730
+Bacillus subtilis,1423,Cefotaxime,5742673,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)C(=NOC)C3=CSC(=N3)N)SC1)C(=O)O,6338822
+Streptococcus pneumoniae,1313,Cefotaxime,5742673,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)C(=NOC)C3=CSC(=N3)N)SC1)C(=O)O,7447421
+Acinetobacter baumannii,470,Cefotaxime,5742673,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)C(=NOC)C3=CSC(=N3)N)SC1)C(=O)O,20547808
+Listeria monocytogenes,1639,Cefotaxime,5742673,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)C(=NOC)C3=CSC(=N3)N)SC1)C(=O)O,25136010
+Streptococcus pneumoniae,1313,Cefotetan,53025,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)(NC(=O)C4SC(=C(C(=O)N)C(=O)O)S4)OC)SC2)C(=O)O,6573313
+Listeria monocytogenes,1639,Cefotiam,43708,CN(C)CCN1C(=NN=N1)SCC2=C(N3C(C(C3=O)NC(=O)CC4=CSC(=N4)N)SC2)C(=O)O,25136010
+Escherichia coli,562,Cefoxitin,441199,COC1(C2N(C1=O)C(=C(CS2)COC(=O)N)C(=O)O)NC(=O)CC3=CC=CS3,368000
+Streptococcus pneumoniae,1313,Cefoxitin,441199,COC1(C2N(C1=O)C(=C(CS2)COC(=O)N)C(=O)O)NC(=O)CC3=CC=CS3,7447421
+Listeria monocytogenes,1639,Cefoxitin,441199,COC1(C2N(C1=O)C(=C(CS2)COC(=O)N)C(=O)O)NC(=O)CC3=CC=CS3,25136010
+Staphylococcus aureus,1280,Cefoxitin,441199,COC1(C2N(C1=O)C(=C(CS2)COC(=O)N)C(=O)O)NC(=O)CC3=CC=CS3,26828772
+Staphylococcus aureus,1280,Cefpiramide,636405,CC1=CC(=O)C(=CN1)C(=O)NC(C2=CC=C(C=C2)O)C(=O)NC3C4N(C3=O)C(=C(CS4)CSC5=NN=NN5C)C(=O)O,1864279
+Escherichia coli,562,Cefpiramide,636405,CC1=CC(=O)C(=CN1)C(=O)NC(C2=CC=C(C=C2)O)C(=O)NC3C4N(C3=O)C(=C(CS4)CSC5=NN=NN5C)C(=O)O,3943292
+Pseudomonas aeruginosa,287,Cefpiramide,636405,CC1=CC(=O)C(=CN1)C(=O)NC(C2=CC=C(C=C2)O)C(=O)NC3C4N(C3=O)C(=C(CS4)CSC5=NN=NN5C)C(=O)O,3943292
+Escherichia coli,562,Cefpodoxime,6335986,COCC1=C(N2C(C(C2=O)NC(=O)C(=NOC)C3=CSC(=N3)N)SC1)C(=O)O,12041787
+Escherichia coli,562,Ceftazidime,5481173,CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-],6413485
+Pseudomonas aeruginosa,287,Ceftazidime,5481173,CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-],6413485
+Streptococcus pneumoniae,1313,Ceftazidime,5481173,CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-],6413485
+Stenotrophomonas maltophilia,40324,Ceftazidime,5481173,CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-],14693533
+Morganella morganii,582,Ceftazidime,5481173,CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-],15528892
+Proteus vulgaris,585,Ceftazidime,5481173,CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-],15528892
+Providencia stuartii,588,Ceftazidime,5481173,CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-],15528892
+Burkholderia pseudomallei,28450,Ceftazidime,5481173,CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-],23785532
+Escherichia coli,562,Ceftizoxime,6533629,CON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=CCS3)C(=O)O,7018389
+Staphylococcus aureus,1280,Ceftizoxime,6533629,CON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=CCS3)C(=O)O,15716453
+Escherichia coli,562,Ceftobiprole,135413542,C1CNCC1N2CCC(=CC3=C(N4C(C(C4=O)NC(=O)C(=NO)C5=NSC(=N5)N)SC3)C(=O)O)C2=O,17470659
+Staphylococcus aureus,1280,Ceftobiprole,135413542,C1CNCC1N2CCC(=CC3=C(N4C(C(C4=O)NC(=O)C(=NO)C5=NSC(=N5)N)SC3)C(=O)O)C2=O,17470659
+Streptococcus pneumoniae,1313,Ceftriaxone,5479530,CN1C(=NC(=O)C(=O)N1)SCC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)O,20704258
+Listeria monocytogenes,1639,Cefuroxime,5479529,CON=C(C1=CC=CO1)C(=O)NC2C3N(C2=O)C(=C(CS3)COC(=O)N)C(=O)O,25136010
+Streptococcus pneumoniae,1313,Cephalexin,27447,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=CC=C3)N)SC1)C(=O)O,7447421
+Bacillus subtilis,1423,Cephalexin,27447,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=CC=C3)N)SC1)C(=O)O,25038633
+Bacillus licheniformis,1402,Cephaloglycin,19150,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=CC=C3)N)SC1)C(=O)O,7565098
+Escherichia coli,562,Cerulenin,5282054,CC=CCC=CCCC(=O)C1C(O1)C(=O)N,791237
+Candida albicans,5476,CGP-37157,2688,C1C(=O)NC2=C(C=C(C=C2)Cl)C(S1)C3=CC=CC=C3Cl,21903824
+Staphylococcus aureus,1280,Chelerythrine,2703,C[N+]1=C2C(=C3C=CC(=C(C3=C1)OC)OC)C=CC4=CC5=C(C=C42)OCO5,22182580
+Staphylococcus epidermidis,1282,Chelerythrine,2703,C[N+]1=C2C(=C3C=CC(=C(C3=C1)OC)OC)C=CC4=CC5=C(C=C42)OCO5,22182580
+Escherichia coli,562,Chitosan,71853,COC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)N)OC3C(OC(C(C3O)N)O)CO)CO)CO)OC4C(C(C(C(O4)CO)OC5C(C(C(C(O5)CO)OC6C(C(C(C(O6)CO)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)CO)OC9C(C(C(C(O9)CO)O)O)N)O)N)O)N)O)N)O)N)O)N)O,20089325
+Staphylococcus aureus,1280,Chitosan,71853,COC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)N)OC3C(OC(C(C3O)N)O)CO)CO)CO)OC4C(C(C(C(O4)CO)OC5C(C(C(C(O5)CO)OC6C(C(C(C(O6)CO)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)CO)OC9C(C(C(C(O9)CO)O)O)N)O)N)O)N)O)N)O)N)O)N)O,20089325
+Aspergillus fumigatus,746128,Chitosan,71853,COC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)N)OC3C(OC(C(C3O)N)O)CO)CO)CO)OC4C(C(C(C(O4)CO)OC5C(C(C(C(O5)CO)OC6C(C(C(C(O6)CO)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)CO)OC9C(C(C(C(O9)CO)O)O)N)O)N)O)N)O)N)O)N)O)N)O,27660214
+Escherichia coli,562,Chloramphenicol,5959,C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-],1670929
+Campylobacter jejuni,197,Chloramphenicol,5959,C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-],17259368
+Bacillus subtilis,1423,Chloramphenicol,5959,C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-],25038633
+Streptococcus mutans,1309,Chlorhexidine,9552079,C1=CC(=CC=C1NC(=NC(=NCCCCCCN=C(N)N=C(N)NC2=CC=C(C=C2)Cl)N)N)Cl,16595638
+Candida albicans,5476,Chlorhexidine,9552079,C1=CC(=CC=C1NC(=NC(=NCCCCCCN=C(N)N=C(N)NC2=CC=C(C=C2)Cl)N)N)Cl,23689719
+Staphylococcus aureus,1280,Chlorhexidine acetate,9562059,CC(=O)O.CC(=O)O.C1=CC(=CC=C1NC(=NC(=NCCCCCCN=C(N)N=C(N)NC2=CC=C(C=C2)Cl)N)N)Cl,23490006
+Streptococcus mutans,1309,Chlorhexidine acetate,9562059,CC(=O)O.CC(=O)O.C1=CC(=CC=C1NC(=NC(=NCCCCCCN=C(N)N=C(N)NC2=CC=C(C=C2)Cl)N)N)Cl,25624759
+Candida albicans,5476,Chloroxine,2722,C1=CC2=C(C(=C(C=C2Cl)Cl)O)N=C1,23689719
+Escherichia coli,562,Chlorpromazine,2726,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl,24176982
+Pseudomonas aeruginosa,287,Chlorpromazine,2726,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl,24176982
+Staphylococcus aureus,1280,Chlorpromazine,2726,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl,24176982
+Pseudomonas aeruginosa,287,Chromate,24461,[O-][Cr](=O)(=O)[O-],24958247
+Escherichia coli,562,Chrysin,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,21930760
+Streptococcus mutans,1309,Chrysophanol,10208,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O,17220400
+Pseudomonas aeruginosa,287,Chrysophanol,10208,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O,21852522
+Stenotrophomonas maltophilia,40324,Chrysophanol,10208,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O,21852522
+Candida albicans,5476,Ciclopirox ethanolamine,38911,CC1=CC(=O)N(C(=C1)C2CCCCC2)O.C(CO)N,23689719
+Human herpesvirus 5,10359,Cidofovir,60613,C1=CN(C(=O)N=C1N)CC(CO)OCP(=O)(O)O,16048917
+Vibrio anguillarum,55601,Cinnamaldehyde,637511,C1=CC=C(C=C1)C=CC=O,18793453
+Vibrio vulnificus,672,Cinnamaldehyde,637511,C1=CC=C(C=C1)C=CC=O,18793453
+Burkholderia cenocepacia,95486,Cinnamaldehyde,637511,C1=CC=C(C=C1)C=CC=O,19146953
+Burkholderia multivorans,87883,Cinnamaldehyde,637511,C1=CC=C(C=C1)C=CC=O,19146953
+Vibrio cholerae,666,Cinnamaldehyde,637511,C1=CC=C(C=C1)C=CC=O,21249192
+Vibrio harveyi,669,Cinnamaldehyde,637511,C1=CC=C(C=C1)C=CC=O,21249192
+Pseudomonas aeruginosa,287,Cinnamic acid,444539,C1=CC=C(C=C1)C=CC(=O)O,23210926
+Haemophilus influenzae,727,Cinoxacin,2762,CCN1C2=CC3=C(C=C2C(=O)C(=N1)C(=O)O)OCO3,9293187
+Bacillus subtilis,1423,Ciprofloxacin,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,7074800
+Pseudomonas aeruginosa,287,Ciprofloxacin,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,7574516
+Haemophilus influenzae,727,Ciprofloxacin,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,9056011
+Escherichia coli,562,Ciprofloxacin,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,14623007
+Stenotrophomonas maltophilia,40324,Ciprofloxacin,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,14693533
+Morganella morganii,582,Ciprofloxacin,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,15528892
+Proteus vulgaris,585,Ciprofloxacin,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,15528892
+Providencia stuartii,588,Ciprofloxacin,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,15528892
+Staphylococcus aureus,1280,Ciprofloxacin,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,16337789
+Mycobacterium tuberculosis,1773,Ciprofloxacin,2764,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,23275348
+Escherichia coli,562,Ciprofloxacin lactate,149514,CC(C(=O)O)O.C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,24159313
+Candida albicans,5476,cis-2-dodecenoic acid,5312376,CCCCCCCCCC=CC(=O)O,23948468
+Pseudomonas aeruginosa,287,cis-2-dodecenoic acid,5312376,CCCCCCCCCC=CC(=O)O,24134835
+Cronobacter sakazakii,28141,Citral,638011,CC(=CCCC(=CC=O)C)C,28233814
+Staphylococcus aureus,1280,Citropin 1.1,10351598,CCC(C)C(C(=O)NCC(=O)NCC(=O)NC(CC(C)C)C(=O)N)NC(=O)C(C(C)C)NC(=O)C(CO)NC(=O)C(C)NC(=O)C(C(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(C(C)CC)NC(=O)C(C(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC(C)C)NC(=O)CN,16289474
+Shigella flexneri,623,Clarithromycin,84029,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)O)(C)O,8540733
+Mycobacterium avium,1764,Clarithromycin,84029,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)O)(C)O,15561879
+Shigella flexneri,623,Clindamycin,446598,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl,11677599
+Propionibacterium acnes,1747,Clindamycin,446598,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl,24251377
+Candida albicans,5476,Clioquinol,2788,C1=CC2=C(C(=C(C=C2Cl)I)O)N=C1,2368971
+Geobacillus kaustophilus,1462,Clofazimine,2794,CC(C)N=C1C=C2C(=NC3=CC=CC=C3N2C4=CC=C(C=C4)Cl)C=C1NC5=CC=C(C=C5)Cl,6286358
+Escherichia coli,562,Clomocycline,54680675,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C(C=CC(=C41)Cl)O)O)O)O)C(=O)NCO)N(C)C)O,17016423
+Candida albicans,5476,Clotrimazole,2812,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4,23689719
+Streptococcus mutans,1309,Clotrimazole,2812,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4,27764679
+Pseudomonas aeruginosa,287,Cloxacillin,6098,CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,7447421
+Streptococcus pneumoniae,1313,Cloxacillin,6098,CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,7447421
+Escherichia coli,562,Cloxacillin,6098,CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,15631796
+Listeria monocytogenes,1639,Cloxacillin,6098,CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,25136010
+Candida albicans,5476,Clozapine,135398737,CN1CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42,21903824
+Pseudomonas aeruginosa,287,Cobalt Ion,104729,[Co+2],24958247
+Mycobacterium tuberculosis,1773,Colistin,44144393,CCC(C)CCCC(=O)NC(CCN)C(=O)NC(C(C)O)C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC1=O)CCN)CC(C)C)CC(C)C)CCN)CCN)C(C)O,28162983
+Escherichia coli,562,Colistin sodium methanesulfonate,216258,CCC(C)CCCCC(=O)NC(CCNCS(=O)(=O)[O-])C(=O)NC(C(C)O)C(=O)NC(CCNCS(=O)(=O)[O-])C(=O)NC1CCNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC1=O)CCNCS(=O)(=O)[O-])CC(C)C)CC(C)C)CCNCS(=O)(=O)[O-])CCNCS(=O)(=O)[O-])C(C)O.[Na+].[Na+].[Na+].[Na+].[Na+],24159313
+Burkholderia cepacia,292,Copper sulfate,24462,[O-]S(=O)(=O)[O-].[Cu+2],28756196
+Escherichia coli,562,Copper sulfate,24462,[O-]S(=O)(=O)[O-].[Cu+2],28756196
+Kocuria rhizophila,72000,Copper sulfate,24462,[O-]S(=O)(=O)[O-].[Cu+2],28756196
+Pseudomonas aeruginosa,287,Copper sulfate,24462,[O-]S(=O)(=O)[O-].[Cu+2],28756196
+Staphylococcus aureus,1280,Copper sulfate,24462,[O-]S(=O)(=O)[O-].[Cu+2],28756196
+Staphylococcus epidermidis,1282,Copper sulfate,24462,[O-]S(=O)(=O)[O-].[Cu+2],28756196
+Escherichia coli,562,Coumarin,323,C1=CC=C2C(=C1)C=CC(=O)O2,25027570
+Edwardsiella tarda,636,Coumarin,323,C1=CC=C2C(=C1)C=CC(=O)O2,25672848
+Pseudomonas aeruginosa,287,Coumarin,323,C1=CC=C2C(=C1)C=CC(=O)O2,25672848
+Staphylococcus aureus,1280,Coumarin,323,C1=CC=C2C(=C1)C=CC(=O)O2,25672848
+Vibrio anguillarum,55601,Coumarin,323,C1=CC=C2C(=C1)C=CC(=O)O2,25672848
+Escherichia coli,562,Coumarin-3-carboxylic acid,10752,C1=CC=C2C(=C1)C=C(C(=O)O2)C(=O)O,25027570
+Pseudomonas aeruginosa,287,CRAMP,155817495,CCC(C)C(C(=O)NC(CO)C(=O)NC(CCCN=C(N)N)C(=O)NC(CC(C)C)C(=O)NC(C)C(=O)NCC(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCCN)C(=O)NCC(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(C(C)CC)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(C(C)CC)C(=O)NCC(=O)NC(CCC(=O)N)C(=O)NC(CCCCN)C(=O)NC(C(C)CC)C(=O)NC(CCCCN)C(=O)NC(CC(=O)N)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CC2=CC=CC=C2)C(=O)NC(CCC(=O)N)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(C(C)C)C(=O)N3CCCC3C(=O)NC(CCC(=O)N)C(=O)N4CCCC4C(=O)NC(CCC(=O)O)C(=O)O)N,18591225
+Pseudomonas aeruginosa,287,Crocin,5281233,CC(=CC=CC=C(C)C=CC=C(C)C(=O)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)O)C=CC=C(C)C(=O)OC3C(C(C(C(O3)COC4C(C(C(C(O4)CO)O)O)O)O)O)O,26370951
+Pseudomonas aeruginosa,287,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,18284200
+Burkholderia cenocepacia,95486,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,19146953
+Burkholderia multivorans,87883,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,19146953
+Escherichia coli,562,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,21930760
+Vibrio harveyi,669,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,23354447
+Vibrio parahaemolyticus,670,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,23354447
+Vibrio vulnificus,672,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,23354447
+Streptococcus mutans,1309,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,23778072
+Proteus mirabilis,584,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,24262582
+Serratia marcescens,615,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,24262582
+Aeromonas hydrophila,644,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,26139614
+Citrobacter freundii,546,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,26139614
+Enterobacter cancerogenus,69218,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,26139614
+Klebsiella variicola,244366,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,26139614
+Pseudomonas japonica,256466,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,26139614
+Raoultella ornithinolytica,54291,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,26139614
+Candida albicans,5476,Curcumin,969516,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,28473808
+Klebsiella pneumoniae,573,Cyanidin,128861,C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O,27162376
+Pseudomonas aeruginosa,287,Cyanidin,128861,C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O,27539815
+Staphylococcus aureus,1280,Cyclacillin,19003,CC1(C(N2C(S1)C(C2=O)NC(=O)C3(CCCCC3)N)C(=O)O)C,7447421
+Streptococcus pneumoniae,1313,Cyclacillin,19003,CC1(C(N2C(S1)C(C2=O)NC(=O)C3(CCCCC3)N)C(=O)O)C,7447421
+Pseudomonas aeruginosa,287,Cyclobutanamine,75645,C1CC(C1)N,25537269
+Firmicutes,1783272,cyclophosphamide,2907,C1CNP(=O)(OC1)N(CCCl)CCCl,24264990
+Escherichia coli,562,Cycloserine,6234,C1C(C(=O)NO1)N,11073937
+Mycobacterium avium,1764,Cycloserine,6234,C1C(C(=O)NO1)N,12499203
+Pseudomonas aeruginosa,287,Cynarin,5281769,C1C(C(C(CC1(C(=O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)OC(=O)C=CC3=CC(=C(C=C3)O)O)O)O,26370951
+Staphylococcus aureus,1280,D-2-aminoadipic acid,165627,C(CC(C(=O)O)N)CC(=O)O,25658642
+Escherichia coli,562,Daidzein,5281708,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O,21930760
+Staphylococcus aureus,1280,Dalbavancin,16134627,CC(C)CCCCCCCCC(=O)NC1C(C(C(OC1OC2=C3C=C4C=C2OC5=C(C=C(C=C5)C(C6C(=O)NC(C7=C(C(=CC(=C7)O)OC8C(C(C(C(O8)CO)O)O)O)C9=C(C=CC(=C9)C(C(=O)N6)NC(=O)C4NC(=O)C1C2=C(C(=CC(=C2)OC2=C(C=CC(=C2)C(C(=O)NC(CC2=CC=C(O3)C=C2)C(=O)N1)NC)O)O)Cl)O)C(=O)NCCCN(C)C)O)Cl)C(=O)O)O)O,27896496
+Staphylococcus epidermidis,1282,Dalbavancin,16134627,CC(C)CCCCCCCCC(=O)NC1C(C(C(OC1OC2=C3C=C4C=C2OC5=C(C=C(C=C5)C(C6C(=O)NC(C7=C(C(=CC(=C7)O)OC8C(C(C(C(O8)CO)O)O)O)C9=C(C=CC(=C9)C(C(=O)N6)NC(=O)C4NC(=O)C1C2=C(C(=CC(=C2)OC2=C(C=CC(=C2)C(C(=O)NC(CC2=CC=C(O3)C=C2)C(=O)N1)NC)O)O)Cl)O)C(=O)NCCCN(C)C)O)Cl)C(=O)O)O)O,27896496
+Enterococcus faecium,1352,Dalfopristin,6323289,CCN(CC)CCS(=O)(=O)C1CCN2C1C(=O)OC(C(C=CC(=O)NCC=CC(=CC(CC(=O)CC3=NC(=CO3)C2=O)O)C)C)C(C)C,20428664
+Streptococcus mutans,1309,Danthron,2950,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O,17220400
+Mycobacterium leprae,1769,Dapsone,2955,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,10439322
+Staphylococcus aureus,1280,Daptomycin,21585658,CCCCCCCCCC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CC(=O)N)C(=O)NC(CC(=O)O)C(=O)NC3C(OC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC3=O)CCCN)CC(=O)O)C)CC(=O)O)CO)C(C)CC(=O)O)CC(=O)C4=CC=CC=C4N)C,23070152
+Human immunodeficiency virus,12721,Darunavir,213039,CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2COC3C2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N,15917527
+Staphylococcus aureus,1280,D-Asparagine,439600,C(C(C(=O)O)N)C(=O)N,25658642
+Staphylococcus aureus,1280,D-Aspartate,83887,C(C(C(=O)O)N)C(=O)O,25687923
+Staphylococcus aureus,1280,D-Citrulline,637599,C(CC(C(=O)O)N)CNC(=O)N,25658642
+Staphylococcus aureus,1280,D-Cystine,6857538,C(C(C(=O)O)N)SSCC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,DD13,134102,C1CNC(=O)N(C1)CN2CCOCC2,15215107
+Propionibacterium acnes,1747,Decanediol,18934410,CCCCCCCCCC(O)O,27188522
+Human immunodeficiency virus 1,11676,Delavirdine,5625,CC(C)NC1=C(N=CC=C1)N2CCN(CC2)C(=O)C3=CC4=C(N3)C=CC(=C4)NS(=O)(=O)C,8815692
+Pseudomonas aeruginosa,287,Delphinidin,68245,C1=C(C=C(C(=C1O)O)O)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O.[Cl-],27539815
+Escherichia coli,562,Demeclocycline,54680690,CN(C)C1C2CC3C(C4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)Cl)O,17016423
+Aquifex aeolicus,63363,Desipramine,2995,CNCCCN1C2=CC=CC=C2CCC3=CC=CC=C31,10592235
+Haemophilus influenzae,727,Dezocine,3033053,CC12CCCCCC(C1N)CC3=C2C=C(C=C3)O,1361946
+Staphylococcus aureus,1280,D-glutamine,145815,C(CC(=O)N)C(C(=O)O)N,25658642
+Staphylococcus aureus,1280,D-Histidine,71083,C1=C(NC=N1)CC(C(=O)O)N,25658642
+Candida albicans,5476,Diazepam,3016,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,26241210
+Pseudomonas aeruginosa,287,Dibenzyl disulphide,9012,C1=CC=C(C=C1)CSSCC2=CC=CC=C2,22715388
+Actinomyces oris,544580,Dibenzyl disulphide,9012,C1=CC=C(C=C1)CSSCC2=CC=CC=C2,25081571
+Streptococcus mutans,1309,Dibenzyl disulphide,9012,C1=CC=C(C=C1)CSSCC2=CC=CC=C2,25081571
+Actinomyces oris,544580,Dibenzyl sulphide,10867,C1=CC=C(C=C1)CSCC2=CC=CC=C2,25081571
+Streptococcus mutans,1309,Dibenzyl sulphide,10867,C1=CC=C(C=C1)CSCC2=CC=CC=C2,25081571
+Staphylococcus aureus,1280,Dichloromethane,6344,C(Cl)Cl,26004723
+Staphylococcus aureus,1280,Dicinnamyl,5376733,C1=CC=C(C=C1)C=CC=CC=CC2=CC=CC=C2,25007234
+Pseudomonas aeruginosa,287,Diclofenac sodium,5018304,C1=CC=C(C(=C1)CC(=O)[O-])NC2=C(C=CC=C2Cl)Cl.[Na+],27328521
+Listeria monocytogenes serotype 4a,2291969,Dicloxacillin,18381,CC1=C(C(=NO1)C2=C(C=CC=C2Cl)Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,2115510
+Streptococcus pneumoniae,1313,Dicloxacillin,18381,CC1=C(C(=NO1)C2=C(C=CC=C2Cl)Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,7447421
+Listeria monocytogenes,1639,Dicloxacillin,18381,CC1=C(C(=NO1)C2=C(C=CC=C2Cl)Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,25136010
+Burkholderia pseudomallei,28450,Dicyclohexylamine,7582,C1CCC(CC1)NC2CCCCC2,20035006
+Human immunodeficiency virus 1,11676,Didanosine,135398739,C1CC(OC1CO)N2C=NC3=C2N=CNC3=O,1379914
+Eggerthella lenta,84112,digoxin,2724385,CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O,2759492
+Staphylococcus aureus,1280,DiHydroxyBenzoFuran,22994886,C1=CC=C2C(=C1)C(=C(O2)O)O,22182580
+Staphylococcus epidermidis,1282,DiHydroxyBenzoFuran,22994886,C1=CC=C2C(=C1)C(=C(O2)O)O,22182580
+Pseudomonas aeruginosa,287,Dimethyl Sulfoxide,679,CS(=O)C,27645245
+Candida albicans,5476,Diphenyl diselenide,15460,C1=CC=C(C=C1)[Se][Se]C2=CC=CC=C2,25189816
+Pseudomonas aeruginosa,287,Diphenyl disulphide,13436,C1=CC=C(C=C1)SSC2=CC=CC=C2,22715388
+Actinomyces oris,544580,Diphenyl disulphide,13436,C1=CC=C(C=C1)SSC2=CC=CC=C2,25081571
+Streptococcus mutans,1309,Diphenyl disulphide,13436,C1=CC=C(C=C1)SSC2=CC=CC=C2,25081571
+Staphylococcus aureus,1280,Diphenyl methane,7580,C1=CC=C(C=C1)CC2=CC=CC=C2,25007234
+Actinomyces oris,544580,Djenkolic acid,68134,C(C(C(=O)O)N)SCSCC(C(=O)O)N,25081571
+Streptococcus mutans,1309,Djenkolic acid,68134,C(C(C(=O)O)N)SCSCC(C(=O)O)N,25081571
+Pseudomonas aeruginosa,287,Dodecyl beta-maltoside,114880,CCCCCCCCCCCCOC1C(C(C(C(O1)CO)OC2C(C(C(C(O2)CO)O)O)O)O)O,24944053
+Human immunodeficiency virus 1,11676,Dolutegravir,54726191,CC1CCOC2N1C(=O)C3=C(C(=O)C(=CN3C2)C(=O)NCC4=C(C=C(C=C4)F)F)O,21719464
+Pseudomonas aeruginosa,287,Doripenem,73303,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)CNS(=O)(=O)N)C(=O)O)C(C)O,2528587
+Escherichia coli,562,Doripenem,73303,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)CNS(=O)(=O)N)C(=O)O)C(C)O,19243706
+Staphylococcus aureus,1280,Doripenem,73303,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)CNS(=O)(=O)N)C(=O)O)C(C)O,19485791
+Escherichia coli,562,Doxycycline,54671203,CC1C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,20592239
+Pseudomonas aeruginosa,287,Doxycycline,54671203,CC1C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,23299903
+Pseudoalteromonas sp.,53249,D-Phenylalanine,71567,C1=CC=C(C=C1)CC(C(=O)O)N,27664053
+Staphylococcus aureus,1280,D-tert-Leucine,6950340,CC(C)(C)C(C(=O)O)N,25658642
+Staphylococcus aureus,1280,D-Tryptophan,9060,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,25658642
+Staphylococcus aureus,1280,D-Tyrosine,71098,C1=CC(=CC=C1CC(C(=O)O)N)O,25658642
+Streptococcus mutans,1309,Econazole,3198,C1=CC(=CC=C1COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl,27764679
+Candida albicans,5476,Econazole nitrate,68589,C1=CC(=CC=C1COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl.[N+](=O)(O)[O-],23689719
+Human immunodeficiency virus 1,11676,Efavirenz,64139,C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F,9878993
+Staphylococcus aureus,1280,Ellagic Acid,5281855,C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O,22242149
+Escherichia coli,562,Ellagic Acid,5281855,C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O,25027570
+Streptococcus mutans,1309,Emodin,3220,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O,17220400
+Pseudomonas aeruginosa,287,Emodin,3220,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O,21852522
+Stenotrophomonas maltophilia,40324,Emodin,3220,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O,21852522
+Human immunodeficiency virus 1,11676,Emtricitabine,60877,C1C(OC(S1)CO)N2C=C(C(=NC2=O)N)F,14609348
+Bacillus subtilis,1423,Enalapril,5388962,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CCCC2C(=O)O,25038633
+Human immunodeficiency virus 1,11676,Enfuvirtide,16130199,CCC(C)C(C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NC(CCC(=O)N)C(=O)NC(CC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CC(=O)N)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(C)C(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC(=O)N)C(=O)NC(CC5=CNC6=CC=CC=C65)C(=O)NC(CC7=CC=CC=C7)C(=O)N)NC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(CC8=CN=CN8)NC(=O)C(C(C)CC)NC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CC9=CC=C(C=C9)O)NC(=O)C,16160172
+Haemophilus influenzae,727,Enoxacin,3229,CCN1C=C(C(=O)C2=CC(=C(N=C21)N3CCNCC3)F)C(=O)O,2834313
+Pseudomonas aeruginosa,287,Ephedrine,9294,CC(C(C1=CC=CC=C1)O)NC,18330563
+Eikenella corrodens,539,Epicatechin,72276,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,21150103
+Eikenella corrodens,539,Epicatechin gallate,107905,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,21150103
+Candida albicans,5476,Epicatechin-3-gallate,65056,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,19898545
+Candida albicans,5476,Epigallocatechin,72277,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O,19898545
+Eikenella corrodens,539,Epigallocatechin,72277,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O,21150103
+Staphylococcus aureus,1280,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,16189116
+Staphylococcus epidermidis,1282,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,16189116
+Burkholderia cenocepacia,95486,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,19146953
+Burkholderia multivorans,87883,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,19146953
+Candida albicans,5476,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,19898545
+Eikenella corrodens,539,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,21150103
+Streptococcus mutans,1309,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,22169220
+Aeromonas hydrophila,644,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,26139614
+Citrobacter freundii,546,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,26139614
+Enterobacter cancerogenus,69218,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,26139614
+Klebsiella variicola,244366,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,26139614
+Pseudomonas japonica,256466,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,26139614
+Raoultella ornithinolytica,54291,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,26139614
+Serratia marcescens,615,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,26139614
+Streptococcus pneumoniae,1313,Epigallocatechin Gallate,65064,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,28402019
+Escherichia coli,562,epsilon-viniferin,5281728,C1=CC(=CC=C1C=CC2=C3C(C(OC3=CC(=C2)O)C4=CC=C(C=C4)O)C5=CC(=CC(=C5)O)O)O,23819562
+Pseudomonas aeruginosa,287,epsilon-viniferin,5281728,C1=CC(=CC=C1C=CC2=C3C(C(OC3=CC(=C2)O)C4=CC=C(C=C4)O)C5=CC(=CC(=C5)O)O)O,23819562
+Escherichia coli,562,Ertapenem,150610,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)NC4=CC=CC(=C4)C(=O)O)C(=O)O)C(C)O,10223931
+Haemophilus influenzae,727,Ertapenem,150610,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)NC4=CC=CC(=C4)C(=O)O)C(=O)O)C(C)O,10223931
+Streptococcus mutans,1309,Erythritol,222285,C(C(C(CO)O)O)O,26363499
+Propionibacterium acnes,1747,Erythromycin,12560,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O,24251377
+Pseudomonas aeruginosa,287,Esculentin,188404,CC1C(C(C(C(O1)OC2C(OC(CC2OC)OC3C(OC(CC3OC)OC4CCC5(C6C(C(C7(CC(CC7(C6(CC=C5C4)O)O)(C(=O)C)O)C)O)O)C)C)C)O)OC)O,23503622
+Pseudomonas aeruginosa,287,Esculetin,5281416,C1=CC(=O)OC2=CC(=C(C=C21)O)O,18330563
+Burkholderia cenocepacia,95486,Esculetin,5281416,C1=CC(=O)OC2=CC(=C(C=C21)O)O,19146953
+Burkholderia multivorans,87883,Esculetin,5281416,C1=CC(=O)OC2=CC(=C(C=C21)O)O,19146953
+Escherichia coli,562,Esculetin,5281416,C1=CC(=O)OC2=CC(=C(C=C21)O)O,25027570
+Pseudomonas aeruginosa,287,Esculin,5281417,C1=CC(=O)OC2=CC(=C(C=C21)OC3C(C(C(C(O3)CO)O)O)O)O,18330563
+Burkholderia cenocepacia,95486,Esculin hydrate,16211025,C1=CC(=O)OC2=CC(=C(C=C21)OC3C(C(C(C(O3)CO)O)O)O)O.O,19146953
+Burkholderia multivorans,87883,Esculin hydrate,16211025,C1=CC(=O)OC2=CC(=C(C=C21)OC3C(C(C(C(O3)CO)O)O)O)O.O,19146953
+Bacillus subtilis,1423,Esomeprazole,9568614,CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC,25038633
+Mycobacterium tuberculosis,1773,Ethambutol,14052,CCC(CO)NCCNC(CC)CO,11854934
+Serratia marcescens,615,"Ethane-1,2-diamine",3301,C(CN)N,28350449
+Staphylococcus aureus,1280,Ethyl acetate,8857,CCOC(=O)C,26004723
+Pseudomonas aeruginosa,287,Ethyl gallate,13250,CCOC(=O)C1=CC(=C(C(=C1)O)O)O,2401679
+Enterococcus faecalis,1351,Ethyl gallate,13250,CCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus aureus,1280,Ethyl gallate,13250,CCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus epidermidis,1282,Ethyl gallate,13250,CCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Streptococcus mutans,1309,Ethyl gallate,13250,CCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus aureus,1280,Ethylene glycol tetraacetic acid,6207,C(COCCOCCN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O,23712617
+Pseudomonas aeruginosa,287,Eugenol,3314,COC1=C(C=CC(=C1)CC=C)O,23264268
+Staphylococcus aureus,1280,Eugenol,3314,COC1=C(C=CC(=C1)CC=C)O,25781975
+Escherichia coli,562,Eugenol,3314,COC1=C(C=CC(=C1)CC=C)O,27808174
+Campylobacter jejuni,197,Evodiamine,442088,CN1C2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,27230628
+Candida albicans,5476,Farnesol,3327,CC(=CCCC(=CCCC(=CCO)C)C)C,12406738
+Candida parapsilosis,5480,Farnesol,3327,CC(=CCCC(=CCCC(=CCO)C)C)C,15817776
+Staphylococcus aureus,1280,Farnesol,3327,CC(=CCCC(=CCCC(=CCO)C)C)C,16569866
+Burkholderia cenocepacia,95486,Farnesol,3327,CC(=CCCC(=CCCC(=CCO)C)C)C,19146953
+Burkholderia multivorans,87883,Farnesol,3327,CC(=CCCC(=CCCC(=CCO)C)C)C,19146953
+Candida dubliniensis,42374,Farnesol,3327,CC(=CCCC(=CCCC(=CCO)C)C)C,20641010
+Candida tropicalis,5482,Farnesol,3327,CC(=CCCC(=CCCC(=CCO)C)C)C,20641010
+Staphylococcus epidermidis,1282,Farnesol,3327,CC(=CCCC(=CCCC(=CCO)C)C)C,21857375
+Staphylococcus aureus,1280,Fenclonine,4652,C1=CC(=CC=C1CC(C(=O)O)N)Cl,25658642
+Klebsiella pneumoniae,573,Ferric chloride,24380,Cl[Fe](Cl)Cl,23889975
+Pseudomonas aeruginosa,287,Ferrous,27284,[Fe+2],24958247
+Pseudomonas aeruginosa,287,Ferulic Acid,445858,COC1=C(C=CC(=C1)C=CC(=O)O)O,18330563
+Staphylococcus aureus,1280,Ferulic Acid,445858,COC1=C(C=CC(=C1)C=CC(=O)O)O,22242149
+Escherichia coli,562,Ferulic Acid,445858,COC1=C(C=CC(=C1)C=CC(=O)O)O,24067082
+Candida albicans,5476,FK506,445643,CC1CC(C2C(CC(C(O2)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C(CC(=O)C(C=C(C1)C)CC=C)O)C)C(=CC4CCC(C(C4)OC)O)C)O)C)OC)OC,21903824
+Escherichia coli,562,Flavone,10680,C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2,21930760
+Haemophilus influenzae,727,Fleroxacin,3357,CN1CCN(CC1)C2=C(C=C3C(=C2F)N(C=C(C3=O)C(=O)O)CCF)F,8861529
+Candida albicans,5476,Fluconazole,3365,C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O,15314102
+Candida albicans,5476,Fluperlapine,49381,CN1CCN(CC1)C2=NC3=C(CC4=CC=CC=C42)C=CC(=C3)F,21903824
+Candida albicans,5476,Fluspiriline,3396,C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)CCCC(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F,21903824
+Human immunodeficiency virus 1,11676,Fosamprenavir,131536,CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2CCOC2)OP(=O)(O)O)S(=O)(=O)C3=CC=C(C=C3)N,11752352
+Escherichia coli,562,Fosfomycin,446987,CC1C(O1)P(=O)(O)O,7608103
+Escherichia coli,562,Framycetin,8378,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)N)OC3C(C(C(O3)CO)OC4C(C(C(C(O4)CN)O)O)N)O)O)N,8605174
+Pseudomonas aeruginosa,287,Fraxin,5273568,COC1=C(C(=C2C(=C1)C=CC(=O)O2)OC3C(C(C(C(O3)CO)O)O)O)O,21852522
+Stenotrophomonas maltophilia,40324,Fraxin,5273568,COC1=C(C(=C2C(=C1)C=CC(=O)O2)OC3C(C(C(C(O3)CO)O)O)O)O,21852522
+Staphylococcus aureus,1280,FS8,70678406,C1CC2=C(C=CC(=C2)NC3=CC(=C(C=C3)F)NC(=O)C4=CC=CC=C4)C(=O)C5=C1C=CC(=C5)OCC(CO)O,23965956
+Pseudomonas aeruginosa,287,Furanone,140765,C1C=COC1=O,22884365
+Streptococcus mutans,1309,Furanone C-30,10131246,C1=C(C(=CBr)OC1=O)Br,22578766
+Pseudomonas aeruginosa,287,Furanone C-30,10131246,C1=C(C(=CBr)OC1=O)Br,28261183
+Pseudomonas aeruginosa,287,Furvina,5849412,C1=C(OC(=C1)Br)C=C([N+](=O)[O-])Br,28140677
+Escherichia coli,562,Fusidic Acid,3000226,CC1C2CCC3(C(C2(CCC1O)C)C(CC4C3(CC(C4=C(CCC=C(C)C)C(=O)O)OC(=O)C)C)O)C,6354181
+Salmonella Typhi,90370,Fusidic Acid,3000226,CC1C2CCC3(C(C2(CCC1O)C)C(CC4C3(CC(C4=C(CCC=C(C)C)C(=O)O)OC(=O)C)C)O)C,6354181
+Thermus thermophilus,274,Fusidic Acid,3000226,CC1C2CCC3(C(C2(CCC1O)C)C(CC4C3(CC(C4=C(CCC=C(C)C)C(=O)O)OC(=O)C)C)O)C,19833919
+Escherichia coli,562,FV7,134814239,CC1=CC(=CC(=C1F)C)CN2C3=CC(=CC(=C3N=C2N4CCNCC4)C5=CC=CC=C5Cl)Cl,24945359
+Pseudomonas aeruginosa,287,FV7,134814239,CC1=CC(=CC(=C1F)C)CN2C3=CC(=CC(=C3N=C2N4CCNCC4)C5=CC=CC=C5Cl)Cl,24945359
+Eikenella corrodens,539,Gallic Acid,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,21150103
+Staphylococcus aureus,1280,Gallic Acid,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,22242149
+Escherichia coli,562,Gallic Acid,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,25974286
+Streptococcus mutans,1309,Gallic Acid,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,25974286
+Pseudomonas aeruginosa,287,Gallium cation,105145,[Ga+3],24958247
+Escherichia coli,562,Gallium Nitrate,61635,[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ga+3],26369125
+Eikenella corrodens,539,Gallocatechin,65084,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O,21150103
+Eikenella corrodens,539,Gallocatechin gallate,5276890,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,21150103
+Haemophilus influenzae,727,Gemifloxacin,9571107,CON=C1CN(CC1CN)C2=C(C=C3C(=O)C(=CN(C3=N2)C4CC4)C(=O)O)F,11796351
+Eubacterium ramulus,39490,Genistein,5280961,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,11959436
+Bacteroides uniformis,820,Genistein,5280961,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,21525249
+Escherichia coli,562,Gentamicin,3467,CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)NC,10619838
+Bacillus subtilis,1423,Gentamicin,3467,CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)NC,12852767
+Bacillus subtilis,1423,Glipizide,3478,CC1=CN=C(C=N1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3,25038633
+Campylobacter jejuni,197,Glucose,5793,C(C1C(C(C(C(O1)O)O)O)O)O,17259368
+Actinomyces oris,544580,Glycinamide hydrochloride,2723639,C(C(=O)N)N.Cl,25081571
+Streptococcus mutans,1309,Glycinamide hydrochloride,2723639,C(C(=O)N)N.Cl,25081571
+Vibrio harveyi,669,Gossypetin hexamethyl ether,146093,COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(O2)C(=C(C=C3OC)OC)OC)OC)OC,26140409
+Stenotrophomonas maltophilia,40324,Grepafloxacin,72474,CC1CN(CCN1)C2=C(C(=C3C(=C2)N(C=C(C3=O)C(=O)O)C4CC4)C)F,14693533
+Escherichia coli,562,Guaiacol,460,COC1=CC=CC=C1O,27808174
+Candida albicans,5476,GW 5074,5924208,C1=CC2=C(C=C1I)C(=CC3=CC(=C(C(=C3)Br)O)Br)C(=O)N2,21903824
+Candida albicans,5476,GW-9662,644213,C1=CC=C(C=C1)NC(=O)C2=C(C=CC(=C2)[N+](=O)[O-])Cl,21903824
+Candida albicans,5476,HA14-1,3549,CCOC(=O)C1=C(OC2=C(C1C(C#N)C(=O)OCC)C=C(C=C2)Br)N,21903824
+Burkholderia cenocepacia,95486,Hamamelitannin,44584241,C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(O2)O)(COC(=O)C3=CC(=C(C(=C3)O)O)O)O)O,26828772
+Pseudomonas aeruginosa,287,Hamamelitannin,44584241,C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(O2)O)(COC(=O)C3=CC(=C(C(=C3)O)O)O)O)O,26828772
+Staphylococcus aureus,1280,Hamamelitannin,44584241,C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(O2)O)(COC(=O)C3=CC(=C(C(=C3)O)O)O)O)O,26828772
+Staphylococcus capitis,29388,Hamamelitannin,44584241,C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(O2)O)(COC(=O)C3=CC(=C(C(=C3)O)O)O)O)O,26828772
+Staphylococcus caprae,29380,Hamamelitannin,44584241,C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(O2)O)(COC(=O)C3=CC(=C(C(=C3)O)O)O)O)O,26828772
+Staphylococcus chromogenes,46126,Hamamelitannin,44584241,C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(O2)O)(COC(=O)C3=CC(=C(C(=C3)O)O)O)O)O,26828772
+Staphylococcus cohnii,29382,Hamamelitannin,44584241,C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(O2)O)(COC(=O)C3=CC(=C(C(=C3)O)O)O)O)O,26828772
+Staphylococcus epidermidis,1282,Hamamelitannin,44584241,C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(O2)O)(COC(=O)C3=CC(=C(C(=C3)O)O)O)O)O,26828772
+Pseudomonas aeruginosa,287,Heptadecanoic acid,10465,CCCCCCCCCCCCCCCCC(=O)O,22045628
+Escherichia coli,562,Heptamethoxyflavone,44229628,COC1=CC=CC(=C1OC)C2=C(C(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,23891936
+Vibrio harveyi,669,Heptamethoxyflavone,44229628,COC1=CC=CC(=C1OC)C2=C(C(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,26140409
+Staphylococcus aureus,1280,Hesperetin,72281,COC1=C(C=C(C=C1)C2CC(=O)C3=C(C=C(C=C3O2)O)O)O,28365326
+Escherichia coli,562,Hesperidin,10621,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O,20163489
+Vibrio harveyi,669,Hesperidin,10621,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O,20163489
+Yersinia enterocolitica,630,Hesperidin,10621,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O,22533445
+Staphylococcus aureus,1280,Hesperidin,10621,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O,28365326
+Streptococcus pneumoniae,1313,Hetacillin,443387,CC1(C(N2C(S1)C(C2=O)N3C(=O)C(NC3(C)C)C4=CC=CC=C4)C(=O)O)C,1095502
+Candida albicans,5476,Hexachlorophene,3598,C1=C(C(=C(C(=C1Cl)Cl)CC2=C(C(=CC(=C2Cl)Cl)Cl)O)O)Cl,23689719
+Enterococcus faecalis,1351,Hexyl gallate,9831030,CCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Pseudomonas aeruginosa,287,Hexyl gallate,9831030,CCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus aureus,1280,Hexyl gallate,9831030,CCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus epidermidis,1282,Hexyl gallate,9831030,CCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Streptococcus mutans,1309,Hexyl gallate,9831030,CCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Candida albicans,5476,Hinokitiol,3611,CC(C)C1=CC(=O)C(=CC=C1)O,28152096
+Candida glabrata,5478,Hinokitiol,3611,CC(C)C1=CC(=O)C(=CC=C1)O,28152096
+Candida parapsilosis,5480,Hinokitiol,3611,CC(C)C1=CC(=O)C(=CC=C1)O,28152096
+Candida tropicalis,5482,Hinokitiol,3611,CC(C)C1=CC(=O)C(=CC=C1)O,28152096
+Candida albicans,5476,Histatin 5,146161025,CC(C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC1=CNC=N1)C(=O)NC(CC2=CNC=N2)C(=O)NCC(=O)NC(CC3=CC=C(C=C3)O)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC4=CC=CC=C4)C(=O)NC(CC5=CNC=N5)C(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CC6=CNC=N6)C(=O)NC(CC7=CNC=N7)C(=O)NC(CO)C(=O)NC(CC8=CNC=N8)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(CC9=CC=C(C=C9)O)C(=O)O)NC(=O)C(CC1=CNC=N1)NC(=O)C(CO)NC(=O)C(CC(=O)O)N,19249746
+Candida glabrata,5478,Histatin 5,146161025,CC(C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC1=CNC=N1)C(=O)NC(CC2=CNC=N2)C(=O)NCC(=O)NC(CC3=CC=C(C=C3)O)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC4=CC=CC=C4)C(=O)NC(CC5=CNC=N5)C(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CC6=CNC=N6)C(=O)NC(CC7=CNC=N7)C(=O)NC(CO)C(=O)NC(CC8=CNC=N8)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(CC9=CC=C(C=C9)O)C(=O)O)NC(=O)C(CC1=CNC=N1)NC(=O)C(CO)NC(=O)C(CC(=O)O)N,24247141
+Candida albicans,5476,hLF1-11,25087507,CC(C)C(C(=O)NC(CCC(=O)N)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CS)C(=O)NC(C)C(=O)O)NC(=O)C(CO)NC(=O)C(CCCN=C(N)N)NC(=O)C(CCCN=C(N)N)NC(=O)C(CCCN=C(N)N)NC(=O)C(CCCN=C(N)N)NC(=O)CN,27902776
+Staphylococcus aureus,1280,Hydnocarpin D,11431204,COC1=C(C=CC(=C1)C2C(OC3=C(O2)C=C(C=C3)C4=CC(=O)C5=C(C=C(C=C5O4)O)O)CO)O,26273725
+Pseudomonas aeruginosa,287,Hydrogen peroxide,784,OO,24645272
+Streptococcus mutans,1309,Hypericin,3663,CC1=CC(=O)C2=C(C3=C(C=C(C4=C3C5=C2C1=C6C(=CC(=O)C7=C(C8=C(C=C(C4=C8C5=C67)O)O)O)C)O)O)O,17220400
+Pseudomonas aeruginosa,287,Hyperoside,5281643,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O,28810631
+Sphingomonas sp. Ibu-2,412900,Ibuprofen,3672,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,23329679
+Acinetobacter baumannii,470,IDR-1018,155527735,CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(=O)N)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)N,24852171
+Burkholderia cenocepacia,95486,IDR-1018,155527735,CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(=O)N)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)N,24852171
+Escherichia coli,562,IDR-1018,155527735,CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(=O)N)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)N,24852171
+Klebsiella pneumoniae,573,IDR-1018,155527735,CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(=O)N)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)N,24852171
+Pseudomonas aeruginosa,287,IDR-1018,155527735,CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(=O)N)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)N,24852171
+Salmonella enterica,28901,IDR-1018,155527735,CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(=O)N)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)N,24852171
+Staphylococcus aureus,1280,IDR-1018,155527735,CCC(C)C(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(=O)N)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)C(C(C)C)N,24852171
+Candida albicans,5476,Imazalil,37175,C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl,23689719
+Escherichia coli,562,Imipenem,104838,CC(C1C2CC(=C(N2C1=O)C(=O)O)SCCN=CN)O,3873871
+Staphylococcus aureus,1280,Imipenem,104838,CC(C1C2CC(=C(N2C1=O)C(=O)O)SCCN=CN)O,3873871
+Bacillus subtilis,1423,Imipenem,104838,CC(C1C2CC(=C(N2C1=O)C(=O)O)SCCN=CN)O,17488146
+Escherichia coli,562,Imperatorin,10212,CC(=CCOC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)C,23891936
+Human immunodeficiency virus 1,11676,Indinavir,5362440,CC(C)(C)NC(=O)C1CN(CCN1CC(CC(CC2=CC=CC=C2)C(=O)NC3C(CC4=CC=CC=C34)O)O)CC5=CN=CC=C5,8724039
+Human immunodeficiency virus,12721,Indinavir,5362440,CC(C)(C)NC(=O)C1CN(CCN1CC(CC(CC2=CC=CC=C2)C(=O)NC3C(CC4=CC=CC=C34)O)O)CC5=CN=CC=C5,17016423
+Pseudomonas aeruginosa,287,Indirubin,10177,C1=CC=C2C(=C1)C(=C(N2)O)C3=NC4=CC=CC=C4C3=O,18330563
+Escherichia coli,562,Indole,798,C1=CC=C2C(=C1)C=CN2,18528414
+Burkholderia cenocepacia,95486,Indole,798,C1=CC=C2C(=C1)C=CN2,19146953
+Burkholderia multivorans,87883,Indole,798,C1=CC=C2C(=C1)C=CN2,19146953
+Pseudomonas aeruginosa,287,Indole,798,C1=CC=C2C(=C1)C=CN2,22251040
+Pantoea agglomerans,549,Indole,798,C1=CC=C2C(=C1)C=CN2,26923129
+Vibrio anguillarum,55601,Indole,798,C1=CC=C2C(=C1)C=CN2,28251783
+Vibrio campbellii,680,Indole,798,C1=CC=C2C(=C1)C=CN2,28251783
+Pseudomonas aeruginosa,287,Indole-3-acetaldehyde,800,C1=CC=C2C(=C1)C(=CN2)CC=O,22251040
+Pseudomonas aeruginosa,287,Indole-3-acetamide,397,C1=CC=C2C(=C1)C(=CN2)CC(=O)N,22251040
+Vibrio campbellii,680,Indole-3-acetamide,397,C1=CC=C2C(=C1)C(=CN2)CC(=O)N,28251783
+Vibrio campbellii,680,Indole-3-acetic acid,802,C1=CC=C2C(=C1)C(=CN2)CC(=O)O,28251783
+Pseudomonas aeruginosa,287,Indole-3-carboxyaldehyde,10256,C1=CC=C2C(=C1)C(=CN2)C=O,22251040
+Vibrio cholerae,666,Indole-3-carboxyaldehyde,10256,C1=CC=C2C(=C1)C(=CN2)C=O,26939983
+Pseudomonas aeruginosa,287,Indole-7-carboxylic acid,74281,C1=CC2=C(C(=C1)C(=O)O)NC=C2,22251040
+Pseudomonas aeruginosa,287,Indolicidin,90478486,CCC(C)C(C(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)NC(CC2=CNC3=CC=CC=C32)C(=O)NC(CCCCN)C(=O)NC(CC4=CNC5=CC=CC=C54)C(=O)N6CCCC6C(=O)NC(CC7=CNC8=CC=CC=C87)C(=O)NC(CC9=CNC1=CC=CC=C19)C(=O)N1CCCC1C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)N)N,18591225
+Staphylococcus aureus,1280,Indolicidin,90478486,CCC(C)C(C(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)NC(CC2=CNC3=CC=CC=C32)C(=O)NC(CCCCN)C(=O)NC(CC4=CNC5=CC=CC=C54)C(=O)N6CCCC6C(=O)NC(CC7=CNC8=CC=CC=C87)C(=O)NC(CC9=CNC1=CC=CC=C19)C(=O)N1CCCC1C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)N)N,23070152
+Staphylococcus aureus,1280,Ionic silver,104755,[Ag+],23490006
+Escherichia coli,562,Irinotecan,60838,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7,8706020
+Pseudomonas aeruginosa,287,Isatin,7054,C1=CC=C2C(=C1)C(=O)C(=O)N2,22251040
+Candida albicans,5476,Isobutanol,6560,CC(C)CO,24688528
+Candida albicans,5476,Isoconazole,3760,C1=CC(=C(C(=C1)Cl)COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl,23689719
+Escherichia coli,562,Isoeugenol,853433,CC=CC1=CC(=C(C=C1)O)OC,27808174
+Haemophilus influenzae,727,Isoliquiritigenin,638278,C1=CC(=CC=C1C=CC(=O)C2=C(C=C(C=C2)O)O)O,25154700
+Candida albicans,5476,Isopropanol,3776,CC(C)O,24688528
+Candida albicans,5476,Isoriccardin C,13831041,C1CC2=CC(=C(C=C2)C3=C(CCC4=CC(=C(C=C4)O)OC5=CC=C1C=C5)C=CC=C3O)O,22174935
+Staphylococcus aureus,1280,Isosilybin A,11059920,COC1=C(C=CC(=C1)C2C(OC3=C(O2)C=CC(=C3)C4C(C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O,26273725
+Vibrio harveyi,669,Isosinensetin,632135,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C=C3OC)OC)OC)OC,26140409
+Candida albicans,5476,Itraconazole,55283,CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OCC5COC(O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl,23689719
+Candida albicans,5476,Ivalin,65156,CC12CC(CC(=C)C1CC3C(C2)OC(=O)C3=C)O,26394911
+Haemophilus influenzae,727,Josamycin,5282165,CC1CC=CC=CC(C(CC(C(C(C(CC(=O)O1)OC(=O)C)OC)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)OC(=O)CC(C)C)(C)O)N(C)C)O)CC=O)C)O,10898684
+Escherichia coli,562,Kaempherol,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,20163489
+Vibrio harveyi,669,Kaempherol,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,20163489
+Staphylococcus aureus,1280,Kaempherol,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,22242149
+Escherichia coli,562,Kanamycin,6032,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)O)O)OC3C(C(C(C(O3)CO)O)N)O)N,8657204
+Streptococcus mutans,1309,Kaurenoic acid,73062,CC12CCCC(C1CCC34C2CCC(C3)C(=C)C4)(C)C(=O)O,23662113
+Candida albicans,5476,Ketoconazole,47576,CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OCC3COC(O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl,1627190
+Pseudomonas aeruginosa,287,Kojic acid,3840,C1=C(OC=C(C1=O)O)CO,26557964
+Escherichia coli,562,KT2,137102595,C1C2C(C(C(O2)N3C=NC4=C3N=C(NC4=O)N)OP(=O)(OCC5C(C(C(O5)N6C=CC7=C(N=CN=C76)N)O)OP(=O)(O1)O)O)O,25767037
+Staphylococcus aureus,1280,L-4-Carbamoylphenylalanine,2762272,C1=CC(=CC=C1CC(C(=O)O)N)C(=O)N,25658642
+Candida albicans,5476,"L-744,832",6451153,CCC(C)C(COC(CC1=CC=CC=C1)C(=O)NC(CCS(=O)(=O)C)C(=O)OC(C)C)NCC(CS)N,21903824
+Aspergillus fumigatus,746128,Lactoferricin B,16132444,CCC(C)C(C(=O)NC(C(C)O)C(=O)NC(CS)C(=O)NC(C(C)C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CC1=CC=CC=C1)C(=O)O)NC(=O)C(CO)NC(=O)C2CCCN2C(=O)C(C)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CCSC)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CCC(=O)N)NC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(CS)NC(=O)C(CCCCN)NC(=O)C(CC7=CC=CC=C7)N,22410856
+Candida albicans,5476,Lactoferricin B,16132444,CCC(C)C(C(=O)NC(C(C)O)C(=O)NC(CS)C(=O)NC(C(C)C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CC1=CC=CC=C1)C(=O)O)NC(=O)C(CO)NC(=O)C2CCCN2C(=O)C(C)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CCSC)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CCC(=O)N)NC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(CS)NC(=O)C(CCCCN)NC(=O)C(CC7=CC=CC=C7)N,22410856
+Fusarium solani,169388,Lactoferricin B,16132444,CCC(C)C(C(=O)NC(C(C)O)C(=O)NC(CS)C(=O)NC(C(C)C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CC1=CC=CC=C1)C(=O)O)NC(=O)C(CO)NC(=O)C2CCCN2C(=O)C(C)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CCSC)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CCC(=O)N)NC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(CS)NC(=O)C(CCCCN)NC(=O)C(CC7=CC=CC=C7)N,22410856
+Human immunodeficiency virus 1,11676,Lamivudine,60825,C1C(OC(S1)CO)N2C=CC(=NC2=O)N,1283519
+Pseudomonas fluorescens,294,Lanthanum chloride,64735,Cl[La](Cl)Cl,2624463
+Staphylococcus aureus,1280,L-Aspartate,5960,C(C(C(=O)O)N)C(=O)O,25687923
+Staphylococcus chromogenes,46126,L-Aspartate,5960,C(C(C(=O)O)N)C(=O)O,25687923
+Staphylococcus equorum,246432,L-Aspartate,5960,C(C(C(=O)O)N)C(=O)O,25687923
+Staphylococcus haemolyticus,1283,L-Aspartate,5960,C(C(C(=O)O)N)C(=O)O,25687923
+Staphylococcus saprophyticus,29385,L-Aspartate,5960,C(C(C(=O)O)N)C(=O)O,25687923
+Bacillus subtilis,1423,Latamoxef,47499,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)(NC(=O)C(C4=CC=C(C=C4)O)C(=O)O)OC)OC2)C(=O)O,3918982
+Escherichia coli,562,Latamoxef,47499,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)(NC(=O)C(C4=CC=C(C=C4)O)C(=O)O)OC)OC2)C(=O)O,3918982
+Burkholderia cenocepacia,95486,L-Canavanine,439202,C(CON=C(N)N)C(C(=O)O)N,19146953
+Burkholderia multivorans,87883,L-Canavanine,439202,C(CON=C(N)N)C(C(=O)O)N,19146953
+Streptococcus mutans,1309,L-carnosine,439224,C1=C(NC=N1)CC(C(=O)O)NC(=O)CCN,25081571
+Actinomyces oris,544580,L-cysteic acid,72886,C(C(C(=O)O)N)S(=O)(=O)O,25081571
+Streptococcus mutans,1309,L-cysteic acid,72886,C(C(C(=O)O)N)S(=O)(=O)O,25081571
+Haemophilus influenzae,727,Levofloxacin,149096,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,9598779
+Stenotrophomonas maltophilia,40324,Levofloxacin,149096,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,14693533
+Bacillus cereus,1396,Limonene,22311,CC1=CCC(CC1)C(=C)C,23789847
+Escherichia coli,562,Limonene,22311,CC1=CCC(CC1)C(=C)C,23789847
+Pichia anomala,4927,Limonene,22311,CC1=CCC(CC1)C(=C)C,23789847
+Streptococcus mitis,28037,Limonene,22311,CC1=CCC(CC1)C(=C)C,26294065
+Streptococcus mutans,1309,Limonene,22311,CC1=CCC(CC1)C(=C)C,26294065
+Streptococcus pyogenes,1314,Limonene,22311,CC1=CCC(CC1)C(=C)C,26294065
+Candida albicans,5476,Limonene,22311,CC1=CCC(CC1)C(=C)C,27702795
+Bacillus cereus,1396,Linalool,6549,CC(=CCCC(C)(C=C)O)C,23789847
+Escherichia coli,562,Linalool,6549,CC(=CCCC(C)(C=C)O)C,23789847
+Pichia anomala,4927,Linalool,6549,CC(=CCCC(C)(C=C)O)C,23789847
+Acinetobacter baumannii,470,Linalool,6549,CC(=CCCC(C)(C=C)O)C,26901586
+Candida albicans,5476,Linalool,6549,CC(=CCCC(C)(C=C)O)C,28155334
+Staphylococcus aureus,1280,Linezolid,441401,CC(=O)NCC1CN(C(=O)O1)C2=CC(=C(C=C2)N3CCOCC3)F,16621147
+Pseudomonas aeruginosa,287,Lipoic acid,6112,C1CSSC1CCCCC(=O)O,26557964
+Streptococcus mutans,1309,Listerine,114959,CC1CCC(C(C1)O)C(C)C.CC1=CC(=C(C=C1)C(C)C)O.CC1(C2CCC(O1)(CC2)C)C,20211885
+Haemophilus influenzae,727,Lomefloxacin,3948,CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O,7492077
+Human immunodeficiency virus 1,11676,Lopinavir,92727,CC1=C(C(=CC=C1)C)OCC(=O)NC(CC2=CC=CC=C2)C(CC(CC3=CC=CC=C3)NC(=O)C(C(C)C)N4CCCNC4=O)O,11151088
+Human immunodeficiency virus,12721,Lopinavir,92727,CC1=C(C(=CC=C1)C)OCC(=O)NC(CC2=CC=CC=C2)C(CC(CC3=CC=CC=C3)NC(=O)C(C(C)C)N4CCCNC4=O)O,11752352
+Candida albicans,5476,Lorazepam,3958,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl,26241210
+Pseudoalteromonas sp.,53249,L-Phenylalanine,6140,C1=CC=C(C=C1)CC(C(=O)O)N,27664053
+Staphylococcus aureus,1280,L-pipecolic acid,439227,C1CCNC(C1)C(=O)O,25658642
+Bacillus subtilis,1423,L-tryptophan,6305,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,28819217
+Pseudomonas aeruginosa,287,L-tryptophan,6305,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,28819217
+Salmonella enterica,28901,L-tryptophan,6305,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,28819217
+Staphylococcus aureus,1280,L-tryptophan,6305,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,28819217
+Vibrio vulnificus,672,L-tryptophan,6305,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,28819217
+Staphylococcus aureus,1280,L-Tyrosine,6057,C1=CC(=CC=C1CC(C(=O)O)N)O,25658642
+Escherichia coli,562,Luteolin,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,25051393
+Escherichia coli,562,Lymecycline,54707177,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)NCNCCCCC(C(=O)O)N)N(C)C)O,5087060
+Pseudomonas aeruginosa,287,Lysozyme,91976556,CCC(C)C(C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(C(C)C)C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)N)C(=O)NC(CCCNC(=N)N)C(=O)O)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)C5CCCN5C(=O)C(CC(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)C)NC(=O)C(C(C)C)NC(=O)C(CCCNC(=N)N)N,28397768
+Staphylococcus aureus,1280,Lysozyme,91976556,CCC(C)C(C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(C(C)C)C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)N)C(=O)NC(CCCNC(=N)N)C(=O)O)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)C5CCCN5C(=O)C(CC(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)C)NC(=O)C(C(C)C)NC(=O)C(CCCNC(=N)N)N,28397768
+Vibrio cholerae,666,Macromomycin B,5748693,COC1=CC(=C2C(=C1)OC(=C)C(=O)N2)C(=O)OC,24106077
+Pseudomonas aeruginosa,287,Malabaricone C,100313,C1=CC(=C(C(=C1)O)C(=O)CCCCCCCCC2=CC(=C(C=C2)O)O)O,21910441
+Plasmodium falciparum,5833,Mefloquine,40692,C1CCNC(C1)C(C2=CC(=NC3=C2C=CC=C3C(F)(F)F)C(F)(F)F)O,14967191
+Pseudomonas aeruginosa,287,Melittin,16133648,CCC(C)C(C(=O)NCC(=O)NC(C)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(C(C)O)C(=O)NC(C(C)O)C(=O)NCC(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(=O)NC(CC(C)C)C(=O)NC(C(C)CC)C(=O)NC(CO)C(=O)NC(CC2=CNC3=CC=CC=C32)C(=O)NC(C(C)CC)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)N)C(=O)N)NC(=O)CN,23760014
+Aeromonas hydrophila,644,Menthol,1254,CC1CCC(C(C1)O)C(C)C,26029178
+Pseudomonas aeruginosa,287,Menthol,1254,CC1CCC(C(C1)O)C(C)C,26029178
+Streptococcus pyogenes,1314,Merimepodib,153241,COC1=C(C=CC(=C1)NC(=O)NC2=CC=CC(=C2)CNC(=O)OC3CCOC3)C4=CN=CO4,11288107
+Pseudomonas aeruginosa,287,Meropenem,441130,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)N(C)C)C(=O)O)C(C)O,7803882
+Escherichia coli,562,Meropenem,441130,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)N(C)C)C(=O)O)C(C)O,9099227
+Pseudomonas aeruginosa,287,meta-toluidine,7934,CC1=CC(=CC=C1)N,25537269
+Pseudomonas aeruginosa,287,methanesulfonylbenzene,18369,CS(=O)(=O)C1=CC=CC=C1,19855933
+Staphylococcus aureus,1280,Methanol,887,CO,26004723
+Candida albicans,5476,Methyl benzethonium chloride,5702238,CC1=C(C=CC(=C1)C(C)(C)CC(C)(C)C)OCCOCC[N+](C)(C)CC2=CC=CC=C2.[Cl-],23689719
+Escherichia coli,562,Methyl eugenol,7127,COC1=C(C=C(C=C1)CC=C)OC,27808174
+Enterococcus faecalis,1351,Methyl gallate,7428,COC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Pseudomonas aeruginosa,287,Methyl gallate,7428,COC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus aureus,1280,Methyl gallate,7428,COC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus epidermidis,1282,Methyl gallate,7428,COC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Streptococcus mutans,1309,Methyl gallate,7428,COC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Pseudomonas aeruginosa,287,Methyl indole-7-carboxylate,676694,COC(=O)C1=CC=CC2=C1NC=C2,22251040
+Burkholderia pseudomallei,28450,Methylthiopropylamine,77743,CSCCCN,2003500
+Streptococcus pneumoniae,1313,Meticillin,6087,CC1(C(N2C(S1)C(C2=O)NC(=O)C3=C(C=CC=C3OC)OC)C(=O)O)C,7447421
+Staphylococcus aureus,1280,Meticillin,6087,CC1(C(N2C(S1)C(C2=O)NC(=O)C3=C(C=CC=C3OC)OC)C(=O)O)C,16946250
+Clostridium perfringens,1502,Metronidazole,4173,CC1=NC=C(N1CCO)[N+](=O)[O-],231450
+Clostridium pasteurianum,1501,Metronidazole,4173,CC1=NC=C(N1CCO)[N+](=O)[O-],16550436
+Porphyromonas gingivalis,837,Metronidazole,4173,CC1=NC=C(N1CCO)[N+](=O)[O-],20038616
+Escherichia coli,562,Mezlocillin,656511,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)NC(=O)N4CCN(C4=O)S(=O)(=O)C)C(=O)O)C,2683579
+Streptococcus pneumoniae,1313,Mezlocillin,656511,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)NC(=O)N4CCN(C4=O)S(=O)(=O)C)C(=O)O)C,2683579
+Pseudomonas aeruginosa,287,Micafungin,477468,CCCCCOC1=CC=C(C=C1)C2=CC(=NO2)C3=CC=C(C=C3)C(=O)NC4CC(C(NC(=O)C5C(C(CN5C(=O)C(NC(=O)C(NC(=O)C6CC(CN6C(=O)C(NC4=O)C(C)O)O)C(C(C7=CC(=C(C=C7)O)OS(=O)(=O)O)O)O)C(CC(=O)N)O)C)O)O)O,23879871
+Candida albicans,5476,Miconazole,4189,C1=CC(=C(C=C1Cl)Cl)COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl,8834867
+Candida albicans,5476,Midazolam,4192,CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F,26241210
+Escherichia coli,562,Minocycline,54675783,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,14723559
+Staphylococcus aureus,1280,Minocycline,54675783,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,16289474
+Propionibacterium acnes,1747,Minocycline,54675783,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,24251377
+Acinetobacter baumannii,470,Mitomycin C,5746,CC1=C(C(=O)C2=C(C1=O)N3CC4C(C3(C2COC(=O)N)OC)N4)N,27939675
+Candida albicans,5476,Monensin sodium salt,23667299,CCC1(CCC(O1)C2(CCC3(O2)CC(C(C(O3)C(C)C(C(C)C(=O)[O-])OC)C)O)C)C4C(CC(O4)C5C(CC(C(O5)(CO)O)C)C)C.[Na+],23689719
+Haemophilus influenzae,727,Moxifloxacin,152946,COC1=C2C(=CC(=C1N3CC4CCCNC4C3)F)C(=O)C(=CN2C5CC5)C(=O)O,9598779
+Stenotrophomonas maltophilia,40324,Moxifloxacin,152946,COC1=C2C(=CC(=C1N3CC4CCCNC4C3)F)C(=O)C(=CN2C5CC5)C(=O)O,14693533
+Mycobacterium avium,1764,Moxifloxacin,152946,COC1=C2C(=CC(=C1N3CC4CCCNC4C3)F)C(=O)C(=CN2C5CC5)C(=O)O,15561879
+Candida albicans,5476,Moxifloxacin,152946,COC1=C2C(=CC(=C1N3CC4CCCNC4C3)F)C(=O)C(=CN2C5CC5)C(=O)O,28409362
+Bacillus subtilis,1423,Mucobromic acid,3033972,C(=O)C(=C(C(=O)O)Br)Br,25335695
+Bacillus subtilis,1423,Mucochloric acid,2771871,C(=O)C(=C(C(=O)O)Cl)Cl,25335695
+Staphylococcus aureus,1280,Myricetin,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,28365326
+Staphylococcus aureus,1280,Myricitrin,5281673,CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C(=C4)O)O)O)O)O)O,28365326
+Pseudomonas aeruginosa,287,Myristic acid,11005,CCCCCCCCCCCCCC(=O)O,22045628
+Escherichia coli,562,Myristic acid,11005,CCCCCCCCCCCCCC(=O)O,25656290
+Klebsiella pneumoniae,573,Myristic acid,11005,CCCCCCCCCCCCCC(=O)O,25656290
+Proteus mirabilis,584,Myristic acid,11005,CCCCCCCCCCCCCC(=O)O,25656290
+Proteus vulgaris,585,Myristic acid,11005,CCCCCCCCCCCCCC(=O)O,25656290
+Serratia marcescens,615,Myristic acid,11005,CCCCCCCCCCCCCC(=O)O,25656290
+Vibrio cholerae,666,Myristic acid,11005,CCCCCCCCCCCCCC(=O)O,26939983
+Pseudomonas aeruginosa,287,"N-(1,3-benzothiazol-2-yl)butanamide",708614,CCCC(=O)NC1=NC2=CC=CC=C2S1,20453898
+Pseudomonas aeruginosa,287,"N-(1,3-Thiazol-2-yl)butanamide",3621821,CCCC(=O)NC1=NC=CS1,20453898
+Pseudomonas aeruginosa,287,N-(2-oxothiolan-3-yl)butanamide,4428038,CCCC(=O)NC1CCSC1=O,20453898
+Pseudomonas aeruginosa,287,"N-(4,5-Dihydro-1,3-thiazol-2-yl)butanamide",5113558,CCCC(=O)NC1=NCCS1,20453898
+Porphyromonas gingivalis,837,N-(4-hydroxy-2-methylphenyl)-3-oxododecanamide,24901250,CCCCCCCCCC(=O)CC(=O)NC1=C(C=C(C=C1)O)C,19778324
+Pseudomonas aeruginosa,287,N-(4-Hydroxyphenyl)butanamide,66874,CCCC(=O)NC1=CC=C(C=C1)O,20453898
+Serratia marcescens,615,"N1-(7-chloroquinolin-4-yl)ethane-1,2-diamine",221208,C1=CC2=C(C=CN=C2C=C1Cl)NCCN,28350449
+Corynebacterium ammoniagenes,1697,N-Acetylcysteine,12035,CC(=O)NC(CS)C(=O)O,28237766
+Propionibacterium acnes,1747,N-Acetylcysteine,12035,CC(=O)NC(CS)C(=O)O,28237766
+Staphylococcus aureus,1280,N-Acetylcysteine,12035,CC(=O)NC(CS)C(=O)O,28237766
+Streptococcus pyogenes,1314,N-Acetylcysteine,12035,CC(=O)NC(CS)C(=O)O,28237766
+Campylobacter jejuni,197,NaCl,5234,[Na+].[Cl-],17259368
+Streptococcus pneumoniae,1313,Nafcillin,8982,CCOC1=C(C2=CC=CC=C2C=C1)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,7447421
+Escherichia coli,562,Naringenin,439246,C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,20163489
+Vibrio harveyi,669,Naringenin,439246,C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,20163489
+Pseudomonas aeruginosa,287,Naringenin,439246,C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,23449917
+Escherichia coli,562,Naringin,442428,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O,20163489
+Vibrio harveyi,669,Naringin,442428,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O,20163489
+Yersinia enterocolitica,630,Naringin,442428,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O,22533445
+Pseudomonas aeruginosa,287,N-Decanoyl cyclopentylamide,3320713,CCCCCCCCCC(=O)NC1CCCC1,17369333
+Human immunodeficiency virus,12721,Nelfinavir,64143,CC1=C(C=CC=C1O)C(=O)NC(CSC2=CC=CC=C2)C(CN3CC4CCCCC4CC3C(=O)NC(C)(C)C)O,11396919
+Escherichia coli,562,Neoeriocitrin,114627,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)O)O)O)CO)O)O)O)O)O,20163489
+Vibrio harveyi,669,Neoeriocitrin,114627,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)O)O)O)CO)O)O)O)O)O,20163489
+Escherichia coli,562,Neohesperidin,442439,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)CO)O)O)O)O)O,20163489
+Vibrio harveyi,669,Neohesperidin,442439,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)CO)O)O)O)O)O,20163489
+Yersinia enterocolitica,630,Neohesperidin,442439,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)CO)O)O)O)O)O,22533445
+Candida albicans,5476,Nerolidol,8888,CC(=CCCC(=CCCC(C)(C=C)O)C)C,28155334
+Pseudomonas aeruginosa,287,N-Ethylacetanilide,10727,CCN(C1=CC=CC=C1)C(=O)C,20453898
+Escherichia coli,562,Netilmicin,441306,CCNC1CC(C(C(C1OC2C(C(C(CO2)(C)O)NC)O)O)OC3C(CC=C(O3)CN)N)N,17016423
+Human immunodeficiency virus 1,11676,Nevirapine,4463,CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4,17016423
+Staphylococcus aureus,1280,n-Hexane,8058,CCCCCC,26004723
+Pseudomonas aeruginosa,287,Niacinamide,936,C1=CC(=CN=C1)C(=O)N,17016423
+Pseudomonas aeruginosa,287,Niclosamide,4477,C1=CC(=C(C=C1[N+](=O)[O-])Cl)NC(=O)C2=C(C=CC(=C2)Cl)O,23254430
+Cryptococcus neoformans,5207,nimesulide,4495,CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2=CC=CC=C2,27866353
+Trichophyton mentagrophytes,523103,nimesulide,4495,CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2=CC=CC=C2,27866353
+Listeria monocytogenes,1639,Nisin,155489900,CCC(C)C1C(=O)NC(=C)C(=O)NC(C(=O)NC(CSCC(C(=O)N1)NC(=O)C(=CC)NC(=O)C(C(C)CC)N)C(=O)NC2C(SCC(NC(=O)CNC(=O)C3CCCN3C2=O)C(=O)NC(CCCCN)C(=O)NC4C(SCC(NC(=O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC4=O)C)CC(C)C)CCSC)C(=O)NC(CC(=O)N)C(=O)NC(CCSC)C(=O)NC(CCCCN)C(=O)NC5C(SCC6C(=O)NC(C(=O)NC(CSC(C(C(=O)N6)NC(=O)C(NC5=O)C)C)C(=O)NC(CO)C(=O)NC(C(C)CC)C(=O)NC(CC7=CN=CN7)C(=O)NC(C(C)C)C(=O)NC(=C)C(=O)NC(CCCCN)C(=O)O)CC8=CN=CN8)C)C)C)CC(C)C,20414650
+Staphylococcus aureus,1280,Nisin,155489900,CCC(C)C1C(=O)NC(=C)C(=O)NC(C(=O)NC(CSCC(C(=O)N1)NC(=O)C(=CC)NC(=O)C(C(C)CC)N)C(=O)NC2C(SCC(NC(=O)CNC(=O)C3CCCN3C2=O)C(=O)NC(CCCCN)C(=O)NC4C(SCC(NC(=O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC4=O)C)CC(C)C)CCSC)C(=O)NC(CC(=O)N)C(=O)NC(CCSC)C(=O)NC(CCCCN)C(=O)NC5C(SCC6C(=O)NC(C(=O)NC(CSC(C(C(=O)N6)NC(=O)C(NC5=O)C)C)C(=O)NC(CO)C(=O)NC(C(C)CC)C(=O)NC(CC7=CN=CN7)C(=O)NC(C(C)C)C(=O)NC(=C)C(=O)NC(CCCCN)C(=O)O)CC8=CN=CN8)C)C)C)CC(C)C,20414650
+Staphylococcus epidermidis,1282,Nisin,155489900,CCC(C)C1C(=O)NC(=C)C(=O)NC(C(=O)NC(CSCC(C(=O)N1)NC(=O)C(=CC)NC(=O)C(C(C)CC)N)C(=O)NC2C(SCC(NC(=O)CNC(=O)C3CCCN3C2=O)C(=O)NC(CCCCN)C(=O)NC4C(SCC(NC(=O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC4=O)C)CC(C)C)CCSC)C(=O)NC(CC(=O)N)C(=O)NC(CCSC)C(=O)NC(CCCCN)C(=O)NC5C(SCC6C(=O)NC(C(=O)NC(CSC(C(C(=O)N6)NC(=O)C(NC5=O)C)C)C(=O)NC(CO)C(=O)NC(C(C)CC)C(=O)NC(CC7=CN=CN7)C(=O)NC(C(C)C)C(=O)NC(=C)C(=O)NC(CCCCN)C(=O)O)CC8=CN=CN8)C)C)C)CC(C)C,20414650
+Pseudomonas aeruginosa,287,Nisin,155489900,CCC(C)C1C(=O)NC(=C)C(=O)NC(C(=O)NC(CSCC(C(=O)N1)NC(=O)C(=CC)NC(=O)C(C(C)CC)N)C(=O)NC2C(SCC(NC(=O)CNC(=O)C3CCCN3C2=O)C(=O)NC(CCCCN)C(=O)NC4C(SCC(NC(=O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC4=O)C)CC(C)C)CCSC)C(=O)NC(CC(=O)N)C(=O)NC(CCSC)C(=O)NC(CCCCN)C(=O)NC5C(SCC6C(=O)NC(C(=O)NC(CSC(C(C(=O)N6)NC(=O)C(NC5=O)C)C)C(=O)NC(CO)C(=O)NC(C(C)CC)C(=O)NC(CC7=CN=CN7)C(=O)NC(C(C)C)C(=O)NC(=C)C(=O)NC(CCCCN)C(=O)O)CC8=CN=CN8)C)C)C)CC(C)C,21431164
+Clostridium leptum,1535,nitrazepam,4506,C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3,9310649
+Escherichia coli,562,Nitrofural,5447130,C1=C(OC(=C1)[N+](=O)[O-])C=NNC(=O)N,16275032
+Escherichia coli,562,Nitrofurantoin,6604200,C1C(=O)NC(=O)N1N=CC2=CC=C(O2)[N+](=O)[O-],6363380
+Staphylococcus aureus,1280,n-Methyl-D-valine,6951143,CC(C)C(C(=O)O)NC,25658642
+Escherichia coli,562,Nobiletin,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,23891936
+Vibrio harveyi,669,Nobiletin,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,26140409
+Pseudomonas aeruginosa,287,Nodakenetin,26305,CC(C)(C1CC2=C(O1)C=C3C(=C2)C=CC(=O)O3)O,21852522
+Stenotrophomonas maltophilia,40324,Nodakenetin,26305,CC(C)(C1CC2=C(O1)C=C3C(=C2)C=CC(=O)O3)O,21852522
+Stenotrophomonas maltophilia,40324,Norfloxacin,4539,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O,14693533
+Staphylococcus aureus,1280,Norgestimate,6540478,CCC12CCC3C(C1CCC2(C#C)OC(=O)C)CCC4=CC(=NO)CCC34,28758016
+Staphylococcus epidermidis,1282,Norgestimate,6540478,CCC12CCC3C(C1CCC2(C#C)OC(=O)C)CCC4=CC(=NO)CCC34,28758016
+Bacillus subtilis,1423,Norspermidine,5942,C(CN)CNCCCN,26350146
+Escherichia coli,562,Norspermidine,5942,C(CN)CNCCCN,26350146
+Pseudomonas aeruginosa,287,Norspermidine,5942,C(CN)CNCCCN,26350146
+Acinetobacter baumannii,470,Norspermidine,5942,C(CN)CNCCCN,27864804
+Klebsiella pneumoniae,573,Norspermidine,5942,C(CN)CNCCCN,27864804
+Staphylococcus aureus,1280,Norspermidine,5942,C(CN)CNCCCN,27864804
+Streptococcus mutans,1309,Norspermidine,5942,C(CN)CNCCCN,27922663
+Staphylococcus aureus,1280,Novobiocin,54675769,CC1=C(C=CC2=C1OC(=O)C(=C2O)NC(=O)C3=CC(=C(C=C3)O)CC=C(C)C)OC4C(C(C(C(O4)(C)C)OC)OC(=O)N)O,2830840
+Pseudomonas aeruginosa,287,NRC-16,168510740,CCC(C)C(C(=O)NC(CCCCN)C(=O)N)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCC(=O)N)NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(CC1=CNC=N1)NC(=O)C(CCCCN)NC(=O)C(C)NC(=O)CNC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(CC2=CNC3=CC=CC=C32)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC4=CNC5=CC=CC=C54)NC(=O)CN,23760014
+Candida albicans,5476,Nystatin,6433272,CC1C=CC=CCCC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(C(CCC(CC(CC(CC(=O)OC(C(C1O)C)C)O)O)O)O)O)O)O)C(=O)O)OC3C(C(C(C(O3)C)O)N)O,16500971
+Enterococcus faecalis,1351,Octadecyl gallate,473591,CCCCCCCCCCCCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Pseudomonas aeruginosa,287,Octadecyl gallate,473591,CCCCCCCCCCCCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus aureus,1280,Octadecyl gallate,473591,CCCCCCCCCCCCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus epidermidis,1282,Octadecyl gallate,473591,CCCCCCCCCCCCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Streptococcus mutans,1309,Octadecyl gallate,473591,CCCCCCCCCCCCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Serratia marcescens,615,"octane-1,8-diamine",24250,C(CCCCN)CCCN,28350449
+Enterococcus faecalis,1351,Octyl gallate,61253,CCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Pseudomonas aeruginosa,287,Octyl gallate,61253,CCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus aureus,1280,Octyl gallate,61253,CCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus epidermidis,1282,Octyl gallate,61253,CCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Streptococcus mutans,1309,Octyl gallate,61253,CCCCCCCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Haemophilus influenzae,727,Ofloxacin,4583,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,7963747
+Stenotrophomonas maltophilia,40324,Ofloxacin,4583,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,14693533
+Staphylococcus aureus,1280,Oleanolic Acid,10494,CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C(=O)O)C,22242149
+Pseudomonas aeruginosa,287,Oleic Acid,445639,CCCCCCCCC=CCCCCCCCC(=O)O,23844805
+Staphylococcus aureus,1280,O-Methyl-D-tyrosine,6950205,COC1=CC=C(C=C1)CC(C(=O)O)N,25658642
+Streptococcus pneumoniae,1313,Oxacillin,6196,CC1=C(C(=NO1)C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,7447421
+Staphylococcus aureus,1280,Oxacillin,6196,CC1=C(C(=NO1)C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,18505853
+Porphyromonas gingivalis,837,Oxantel,5281087,CN1CCCN=C1C=CC2=CC(=CC=C2)O,20038616
+Candida albicans,5476,Oxiconazole nitrate,9556529,C1=CC(=C(C=C1Cl)Cl)CON=C(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl.[N+](=O)(O)[O-],23689719
+Pseudomonas aeruginosa,287,Oxyresveratrol,5281717,C1=CC(=C(C=C1O)O)C=CC2=CC(=CC(=C2)O)O,23819562
+Staphylococcus aureus,1280,Oxyresveratrol,5281717,C1=CC(=C(C=C1O)O)C=CC2=CC(=CC(=C2)O)O,25007234
+Escherichia coli,562,Oxytetracycline,54675779,CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O,6163479
+Propionibacterium acnes,1747,Oxytetracycline,54675779,CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O,24251377
+Escherichia coli,562,Palmitic acid,985,CCCCCCCCCCCCCCCC(=O)O,22045628
+Pseudomonas aeruginosa,287,Palmitic acid,985,CCCCCCCCCCCCCCCC(=O)O,22045628
+Escherichia coli,562,Palmitoyl-DL-carnitine,461,CCCCCCCCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,22045628
+Pseudomonas aeruginosa,287,Palmitoyl-DL-carnitine,461,CCCCCCCCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,22045628
+Pseudomonas aeruginosa,287,para-anisidine,7732,COC1=CC=C(C=C1)N,25537269
+Burkholderia cenocepacia,95486,para-Benzoquinone,4650,C1=CC(=O)C=CC1=O,19146953
+Burkholderia multivorans,87883,para-Benzoquinone,4650,C1=CC(=O)C=CC1=O,19146953
+Pseudomonas aeruginosa,287,para-ethylaniline,11504,CCC1=CC=C(C=C1)N,25537269
+Pseudomonas aeruginosa,287,para-toluidine,7813,CC1=CC=C(C=C1)N,25537269
+Achromobacter xylosoxidans,85698,Patulin,4696,C1C=C2C(=CC(=O)O2)C(O1)O,20111864
+Halomonas pacifica,77098,Patulin,4696,C1C=C2C(=CC(=O)O2)C(O1)O,24166155
+Marinobacter hydrocarbonoclasticus,2743,Patulin,4696,C1C=C2C(=CC(=O)O2)C(O1)O,24166155
+Escherichia coli,562,p-Coumaric acid,637542,C1=CC(=CC=C1C=CC(=O)O)O,24067082
+Pseudomonas aeruginosa,287,p-Coumaric acid,637542,C1=CC(=CC=C1C=CC(=O)O)O,26370951
+Staphylococcus aureus,1280,Pefloxacin,51081,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCN(CC3)C)F)C(=O)O,2830840
+Haemophilus influenzae,727,Pefloxacin,51081,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCN(CC3)C)F)C(=O)O,7689456
+Pseudomonas aeruginosa,287,Pelargonidin,67249,C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O.[Cl-],27539815
+Candida albicans,5476,Penicillenol A1,54720258,CCCCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Pseudomonas aeruginosa,287,Penicillenol A1,54720258,CCCCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Staphylococcus aureus,1280,Penicillenol A1,54720258,CCCCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Candida albicans,5476,Penicillenol A2,135017477,CCCCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Pseudomonas aeruginosa,287,Penicillenol A2,135017477,CCCCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Staphylococcus aureus,1280,Penicillenol A2,135017477,CCCCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Candida albicans,5476,Penicillenol B1,54685489,CCCCCCC(C)C(=O)C1=C(C(=CC)N(C1=O)C)O,28377634
+Pseudomonas aeruginosa,287,Penicillenol B1,54685489,CCCCCCC(C)C(=O)C1=C(C(=CC)N(C1=O)C)O,28377634
+Staphylococcus aureus,1280,Penicillenol B1,54685489,CCCCCCC(C)C(=O)C1=C(C(=CC)N(C1=O)C)O,28377634
+Candida albicans,5476,Penicillenol B2,54685487,CCCCCCC(C)C(=O)C1=C(C(=CC)N(C1=O)C)O,28377634
+Pseudomonas aeruginosa,287,Penicillenol B2,54685487,CCCCCCC(C)C(=O)C1=C(C(=CC)N(C1=O)C)O,28377634
+Staphylococcus aureus,1280,Penicillenol B2,54685487,CCCCCCC(C)C(=O)C1=C(C(=CC)N(C1=O)C)O,28377634
+Candida albicans,5476,Penicillenol C1,135550825,CC=CCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Pseudomonas aeruginosa,287,Penicillenol C1,135550825,CC=CCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Staphylococcus aureus,1280,Penicillenol C1,135550825,CC=CCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Candida albicans,5476,Penicillenol C2,135550826,CC=CCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Pseudomonas aeruginosa,287,Penicillenol C2,135550826,CC=CCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Staphylococcus aureus,1280,Penicillenol C2,135550826,CC=CCCCC(C)C(=C1C(=O)C(N(C1=O)C)C(C)O)O,28377634
+Bacillus cereus,1396,Penicillic acid,1268111,CC(=C)C(=O)C(=CC(=O)O)OC,18787817
+Bacillus subtilis,1423,Penicillic acid,1268111,CC(=C)C(=O)C(=CC(=O)O)OC,18787817
+Achromobacter sp.,134375,Penicillic acid,1268111,CC(=C)C(=O)C(=CC(=O)O)OC,20111864
+Achromobacter xylosoxidans,85698,Penicillic acid,1268111,CC(=C)C(=O)C(=CC(=O)O)OC,20111864
+Pseudomonas aeruginosa,287,Penicillic acid,1268111,CC(=C)C(=O)C(=CC(=O)O)OC,20111864
+Pseudomonas aeruginosa,287,Pentagalloylglucose,65238,C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6)O)O)O,26529040
+Staphylococcus aureus,1280,Pentagalloylglucose,65238,C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6)O)O)O,26529040
+Vibrio harveyi,669,Pentamethoxyflavone,68077,COC1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC,26140409
+Candida albicans,5476,Pentanol,6276,CCCCCO,2468852
+Cryptococcus neoformans,5207,PG-1,16136437,CC(C)CC(C(=O)NC(CS)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CS)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC2=CC=CC=C2)C(=O)NC(CS)C(=O)NC(C(C)C)C(=O)NC(CS)C(=O)NC(C(C)C)C(=O)NCC(=O)NC(CCCNC(=N)N)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)CNC(=O)CNC(=O)C(CCCNC(=N)N)N,17057089
+Escherichia coli,562,Phenanthrene,995,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,25656290
+Klebsiella pneumoniae,573,Phenanthrene,995,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,25656290
+Proteus mirabilis,584,Phenanthrene,995,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,25656290
+Proteus vulgaris,585,Phenanthrene,995,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,25656290
+Serratia marcescens,615,Phenanthrene,995,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,25656290
+Candida albicans,5476,Phenobarbitone,4763,CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2,26241210
+Serratia marcescens,615,"Phenol,2,4-bis(1,1-dimethylethyl)",7311,CC(C)(C)C1=CC(=C(C=C1)O)C(C)(C)C,25377484
+Escherichia coli,562,Phenoxymethylpenicillin,6869,CC1(C(N2C(S1)C(C2=O)NC(=O)COC3=CC=CC=C3)C(=O)O)C,10592235
+Lysinibacillus sphaericus,1421,Phenoxymethylpenicillin,6869,CC1(C(N2C(S1)C(C2=O)NC(=O)COC3=CC=CC=C3)C(=O)O)C,10592235
+Staphylococcus aureus,1280,Phenoxymethylpenicillin,6869,CC1(C(N2C(S1)C(C2=O)NC(=O)COC3=CC=CC=C3)C(=O)O)C,19289525
+Candida albicans,5476,Phenytoin,1775,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,26241210
+Escherichia coli,562,Phloretin,4788,C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O)O)O)O,21930760
+Staphylococcus aureus,1280,Phloretin,4788,C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O)O)O)O,28365326
+Staphylococcus aureus,1280,Phloridzin,6072,C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2OC3C(C(C(C(O3)CO)O)O)O)O)O)O,28365326
+Escherichia coli,562,Phosphate,1061,[O-]P(=O)([O-])[O-],23226268
+Staphylococcus aureus,1280,Phosphorylserine,106,C(C(C(=O)O)N)OP(=O)(O)O,25658642
+Pseudomonas aeruginosa,287,Picolinic acid,1018,C1=CC=NC(=C1)C(=O)O,26557964
+Pseudomonas aeruginosa,287,Pinguisenol,11031463,CC1CCC2(C1(CCC(C2C)(C=C)O)C)C,21384863
+Streptococcus pneumoniae,1313,Piperacillin,43672,CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,7447421
+Listeria monocytogenes,1639,Piperacillin,43672,CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,25136010
+Pseudomonas aeruginosa,287,Piperacillin,43672,CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,25285879
+Pseudomonas aeruginosa,287,Piperacillin-Tazobactam,23724843,CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)[O-].CC1(C(N2C(S1(=O)=O)CC2=O)C(=O)O)CN3C=CN=N3.[Na+],18022289
+Pseudomonas aeruginosa,287,Platyphylloside,9826264,C1=CC(=CC=C1CCC(CC(=O)CCC2=CC=C(C=C2)O)OC3C(C(C(C(O3)CO)O)O)O)O,27220074
+Streptococcus mutans,1309,Pleurocidin,16130552,CC(C)CC(C(=O)NC(C(C)O)C(=O)NC(CC1=CN=CN1)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC4=CN=CN4)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CO)NC(=O)CNC(=O)C(CC7=CNC8=CC=CC=C87)NC(=O)CN,21703317
+Enterococcus faecium,1352,Pleurocidin,16130552,CC(C)CC(C(=O)NC(C(C)O)C(=O)NC(CC1=CN=CN1)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC4=CN=CN4)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CO)NC(=O)CNC(=O)C(CC7=CNC8=CC=CC=C87)NC(=O)CN,22921812
+Escherichia coli,562,Pleurocidin,16130552,CC(C)CC(C(=O)NC(C(C)O)C(=O)NC(CC1=CN=CN1)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC4=CN=CN4)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CO)NC(=O)CNC(=O)C(CC7=CNC8=CC=CC=C87)NC(=O)CN,22921812
+Propionibacterium acnes,1747,Pleurocidin,16130552,CC(C)CC(C(=O)NC(C(C)O)C(=O)NC(CC1=CN=CN1)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC4=CN=CN4)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CO)NC(=O)CNC(=O)C(CC7=CNC8=CC=CC=C87)NC(=O)CN,22921812
+Pseudomonas aeruginosa,287,Pleurocidin,16130552,CC(C)CC(C(=O)NC(C(C)O)C(=O)NC(CC1=CN=CN1)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC4=CN=CN4)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CO)NC(=O)CNC(=O)C(CC7=CNC8=CC=CC=C87)NC(=O)CN,22921812
+Staphylococcus aureus,1280,Pleurocidin,16130552,CC(C)CC(C(=O)NC(C(C)O)C(=O)NC(CC1=CN=CN1)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC4=CN=CN4)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC5=CC=CC=C5)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CO)NC(=O)CNC(=O)C(CC7=CNC8=CC=CC=C87)NC(=O)CN,22921812
+Candida albicans,5476,Posaconazole,468595,CCC(C(C)O)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OCC5CC(OC5)(CN6C=NC=N6)C7=C(C=C(C=C7)F)F,14657086
+Staphylococcus aureus,1280,Povidone Iodine,410087,C=CN1CCCC1=O.II,23490006
+Schistosoma,6181,Praziquantel,4891,C1CCC(CC1)C(=O)N2CC3C4=CC=CC=C4CCN3C(=O)C2,18978535
+Pseudomonas aeruginosa,287,Pro-Gly,6426709,C1CC(NC1)C(=O)NCC(=O)O,23210926
+Staphylococcus aureus,1280,Prolificin A,11995285,CCC(C)C(=O)C1=C(C=C(C2=C1OC(C(C2)CC=C(C)C)(C)CCC=C(C)CCC=C(C)C)O)O,22170780
+Staphylococcus epidermidis,1282,Prolificin A,11995285,CCC(C)C(=O)C1=C(C=C(C2=C1OC(C(C2)CC=C(C)C)(C)CCC=C(C)CCC=C(C)C)O)O,22170780
+Streptococcus mutans,1309,prop-2-ene-1-SO-thioperoxol,14917355,C=CCSO,25081571
+Candida albicans,5476,Propanol,1031,CCCO,24688528
+Enterococcus faecalis,1351,Propyl gallate,4947,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Pseudomonas aeruginosa,287,Propyl gallate,4947,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus aureus,1280,Propyl gallate,4947,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Staphylococcus epidermidis,1282,Propyl gallate,4947,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Streptococcus mutans,1309,Propyl gallate,4947,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,24016798
+Pseudomonas aeruginosa,287,Protocatechuic acid,72,C1=CC(=C(C=C1C(=O)O)O)O,18330563
+Streptococcus mutans,1309,Pseudomonas Quinolone Signal,2763159,CCCCCCCC1=C(C(=O)C2=CC=CC=C2N1)O,25854411
+Pseudomonas aeruginosa,287,Psoralen,6199,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,18330563
+Mycobacterium tuberculosis,1773,Pyrazinamide,1046,C1=CN=C(C=N1)C(=O)N,10973326
+Plasmodium falciparum,5833,Pyrimethamine,4993,CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl,2677719
+Vibrio anguillarum,55601,Pyrogallol,1057,C1=CC(=C(C(=C1)O)O)O,19778962
+Vibrio campbellii,680,Pyrogallol,1057,C1=CC(=C(C(=C1)O)O)O,19778962
+Vibrio cholerae,666,Pyrogallol,1057,C1=CC(=C(C(=C1)O)O)O,19778962
+Vibrio vulnificus,672,Pyrogallol,1057,C1=CC(=C(C(=C1)O)O)O,19778962
+Candida albicans,5476,Pyrvinium pamoate,54680693,CC1=CC(=C(N1C2=CC=CC=C2)C)C=CC3=[N+](C4=C(C=C3)C=C(C=C4)N(C)C)C.CC1=CC(=C(N1C2=CC=CC=C2)C)C=CC3=[N+](C4=C(C=C3)C=C(C=C4)N(C)C)C.C1=CC=C2C(=C1)C=C(C(=C2CC3=C(C(=CC4=CC=CC=C43)C(=O)O)[O-])[O-])C(=O)O,23689719
+Escherichia coli,562,Quercetin,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,20163489
+Vibrio harveyi,669,Quercetin,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,20163489
+Pseudomonas aeruginosa,287,Quercetin,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,26370951
+Staphylococcus aureus,1280,Quercetin Dihydrate,5284452,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O.O.O,22242149
+Staphylococcus aureus,1280,Quercetin-3-O-glucuronide,5274585,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O,22242149
+Plasmodium falciparum,5833,Quinine,3034034,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O,14967191
+Streptococcus mutans,1309,Quinizarin,6688,C1=CC=C2C(=C1)C(=O)C3=C(C=CC(=C3C2=O)O)O,17220400
+Serratia marcescens,615,Quinolin-8-ol,1923,C1=CC2=C(C(=C1)O)N=CC=C2,28350449
+Shigella flexneri,623,Quinupristin,5388937,CCC1C(=O)N2CCCC2C(=O)N(C(C(=O)N3CC(C(=O)CC3C(=O)NC(C(=O)OC(C(C(=O)N1)NC(=O)C4=C(C=CC=N4)O)C)C5=CC=CC=C5)CSC6CN7CCC6CC7)CC8=CC=C(C=C8)N(C)C)C,15059283
+Staphylococcus aureus,1280,Quinupristin/dalfopristin,71770713,CCC1C(=O)N2CCCC2C(=O)N(C(C(=O)N3CC(C(=O)CC3C(=O)NC(C(=O)OC(C(C(=O)N1)NC(=O)C4=C(C=CC=N4)O)C)C5=CC=CC=C5)CSC6CN7CCC6CC7)CC8=CC=C(C=C8)N(C)C)C.CCN(CC)CCS(=O)(=O)C1CCN2C1C(=O)OC(C(C=CC(=O)NCC=CC(=CC(CC(=O)CC3=NC(=CO3)C2=O)O)C)C)C(C)C,16621147
+Human immunodeficiency virus 1,11676,Raltegravir,54671008,CC1=NN=C(O1)C(=O)NC(C)(C)C2=NC(=C(C(=O)N2C)O)C(=O)NCC3=CC=C(C=C3)F,18095922
+Streptococcus mutans,1309,Reserpine,5770,COC1C(CC2CN3CCC4=C(C3CC2C1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC,28175292
+Staphylococcus aureus,1280,Resorcinol,5054,C1=CC(=CC(=C1)O)O,25007234
+Burkholderia cenocepacia,95486,Resveratrol,445154,C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O,19146953
+Burkholderia multivorans,87883,Resveratrol,445154,C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O,19146953
+Pseudomonas aeruginosa,287,Resveratrol,445154,C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O,23819562
+Escherichia coli,562,Resveratrol,445154,C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O,24067082
+Staphylococcus aureus,1280,Resveratrol,445154,C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O,24970710
+Streptococcus mutans,1309,Rhein,10168,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C(=O)O,17220400
+Pseudomonas aeruginosa,287,Rhein,10168,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C(=O)O,21852522
+Stenotrophomonas maltophilia,40324,Rhein,10168,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C(=O)O,21852522
+Propionibacterium acnes,1747,Rhodomyrtone,12050020,CC(C)CC1C2=C(C=C(C(=C2O)C(=O)CC(C)C)O)OC3=C1C(=O)C(C(=O)C3(C)C)(C)C,27923605
+Human parainfluenza virus type 2,2560525,Ribavirin,37542,C1=NC(=NN1C2C(C(C(O2)CO)O)O)C(=O)N,17016423
+Escherichia coli,562,Rifabutin,135415564,CC1C=CC=C(C(=O)NC2=C(C3=C(C4=C(C(=C3O)C)OC(C4=O)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C5=NC6(CCN(CC6)CC(C)C)N=C25)O)C,7849340
+Escherichia coli,562,Rifalazil,135431094,CC1C=CC=C(C(=O)NC2=C3C(=C4C(=C(C(=C5C4=C(C(O5)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)O)C)O)C2=O)N=C6C(=CC(=CC6=O)N7CCN(CC7)CC(C)C)O3)C,7492091
+Staphylococcus epidermidis,1282,Rifampicin,135398735,CC1C=CC=C(C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C=NN5CCN(CC5)C)C,3196598
+Escherichia coli,562,Rifampicin,135398735,CC1C=CC=C(C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C=NN5CCN(CC5)C)C,4942761
+Staphylococcus aureus,1280,Rifampicin,135398735,CC1C=CC=C(C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C=NN5CCN(CC5)C)C,16289474
+Human immunodeficiency virus 1,11676,Rilpivirine,6451164,CC1=CC(=CC(=C1NC2=NC(=NC=C2)NC3=CC=C(C=C3)C#N)C)C=CC#N,19548857
+Human immunodeficiency virus 1,11676,Ritonavir,392622,CC(C)C1=NC(=CS1)CN(C)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=CC=C2)CC(C(CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O,7477168
+Human immunodeficiency virus,12721,Ritonavir,392622,CC(C)C1=NC(=CS1)CN(C)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=CC=C2)CC(C(CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O,17627597
+Staphylococcus aureus,1280,RNAIII-inhibiting Peptide,134128288,CC(C(C(=O)NC(CC(=O)N)C(=O)NC(CC1=CC=CC=C1)C(=O)N)NC(=O)C(CC2=CNC3=CC=CC=C32)NC(=O)C4CCCN4C(=O)C(CO)NC(=O)C(CC5=CC=C(C=C5)O)N)O.C(=O)(C(F)(F)F)O,15215107
+Staphylococcus epidermidis,1282,RNAIII-inhibiting Peptide,134128288,CC(C(C(=O)NC(CC(=O)N)C(=O)NC(CC1=CC=CC=C1)C(=O)N)NC(=O)C(CC2=CNC3=CC=CC=C32)NC(=O)C4CCCN4C(=O)C(CO)NC(=O)C(CC5=CC=C(C=C5)O)N)O.C(=O)(C(F)(F)F)O,26571297
+Pseudomonas aeruginosa,287,Rosmarinic acid,5281792,C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O,14701912
+Aeromonas hydrophila,644,Rosmarinic acid,5281792,C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O,27739324
+Escherichia coli,562,Rosoxacin,287180,CCN1C=C(C(=O)C2=C1C=C(C=C2)C3=CC=NC=C3)C(=O)O,3010848
+Escherichia coli,562,RT2,131632227,CCC1=CC=C(C=C1)CC2=CC3=C(COC34C(C(C(C(O4)CO)O)O)O)C=C2,25767037
+Stenotrophomonas maltophilia,40324,Rufloxacin,58258,CN1CCN(CC1)C2=C(C=C3C4=C2SCCN4C=C(C3=O)C(=O)O)F,14693533
+Campylobacter jejuni,197,Rutaecarpine,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,27230628
+Escherichia coli,562,Rutin,5280805,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,20163489
+Vibrio harveyi,669,Rutin,5280805,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,20163489
+Pseudomonas aeruginosa,287,Rutin,5280805,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,26370951
+Streptococcus mutans,1309,S-(2-Aminoethyl)-L-cysteine hydrochloride,16218879,C(CSCC(C(=O)O)N)N.Cl,25081571
+Actinomyces oris,544580,S-(2-thienyl)-L-cysteine,16218806,C1=CSC(=C1)SCC(C(=O)O)N,25081571
+Streptococcus mutans,1309,S-(2-thienyl)-L-cysteine,16218806,C1=CSC(=C1)SCC(C(=O)O)N,25081571
+Actinomyces oris,544580,S-(4-tolyl)-L-cysteine,16218551,CC1=CC=C(C=C1)SCC(C(=O)O)N,25081571
+Streptococcus mutans,1309,S-(4-tolyl)-L-cysteine,16218551,CC1=CC=C(C=C1)SCC(C(=O)O)N,25081571
+Candida albicans,5476,Salicylic Acid,338,C1=CC=C(C(=C1)C(=O)O)O,8390997
+Enterobacter aerogenes,548,Salicylic Acid,338,C1=CC=C(C(=C1)C(=O)O)O,8390997
+Enterococcus faecalis,1351,Salicylic Acid,338,C1=CC=C(C(=C1)C(=O)O)O,8390997
+Klebsiella pneumoniae,573,Salicylic Acid,338,C1=CC=C(C(=C1)C(=O)O)O,8390997
+Staphylococcus aureus,1280,Sanguinarine,5154,C[N+]1=C2C(=C3C=CC4=C(C3=C1)OCO4)C=CC5=CC6=C(C=C52)OCO6,22182580
+Staphylococcus epidermidis,1282,Sanguinarine,5154,C[N+]1=C2C(=C3C=CC4=C(C3=C1)OCO4)C=CC5=CC6=C(C=C52)OCO6,22182580
+Human immunodeficiency virus 1,11676,Saquinavir,441243,CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(C(CC3=CC=CC=C3)NC(=O)C(CC(=O)N)NC(=O)C4=NC5=CC=CC=C5C=C4)O,9297727
+Human immunodeficiency virus,12721,Saquinavir,441243,CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(C(CC3=CC=CC=C3)NC(=O)C(CC(=O)N)NC(=O)C4=NC5=CC=CC=C5C=C4)O,19040279
+Actinomyces oris,544580,S-carboxylmethyl-L-cysteine,193653,C(C(C(=O)O)N)SCC(=O)O,25081571
+Streptococcus mutans,1309,S-carboxylmethyl-L-cysteine,193653,C(C(C(=O)O)N)SCC(=O)O,25081571
+Escherichia coli,562,Scopoletin,5280460,COC1=C(C=C2C(=C1)C=CC(=O)O2)O,25027570
+Streptococcus mutans,1309,Sennidin A,92826,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2C4C5=C(C(=CC=C5)O)C(=O)C6=C4C=C(C=C6O)C(=O)O)C=C(C=C3O)C(=O)O,17220400
+Candida albicans,5476,Sertaconazole nitrate,200103,C1=CC2=C(C(=C1)Cl)SC=C2COC(CN3C=CN=C3)C4=C(C=C(C=C4)Cl)Cl.[N+](=O)(O)[O-],23689719
+Streptococcus mutans,1309,S-ethyl-L-cysteine,92185,CCSCC(C(=O)O)N,25081571
+Pseudomonas aeruginosa,287,Shikonin,479503,CC(=CCC(C1=CC(=O)C2=C(C=CC(=C2C1=O)O)O)O)C,21852522
+Stenotrophomonas maltophilia,40324,Shikonin,479503,CC(=CCC(C1=CC(=O)C2=C(C=CC(=C2C1=O)O)O)O)C,21852522
+Enterococcus faecalis,1351,Siamycin I,16130275,CCC(C)C1C(=O)NC(C(=O)NC(CSSCC2C(=O)NC(C(=O)NC3CC(=O)NC(CSSCC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)N1)C)CC4=CC=C(C=C4)O)NC(=O)CNC(=O)C(NC(=O)C(NC3=O)CC5=CC=CC=C5)C)C(=O)NC(C(=O)NCC(=O)NC(C(=O)NCC(=O)NC(C(=O)N2)CO)C(C)C)CC(C)C)CC(=O)N)C(=O)NC(CC6=CC=CC=C6)C(=O)NC(CC7=CNC8=CC=CC=C87)C(=O)O)C(C)C,17071762
+Staphylococcus aureus,1280,Silver dihydrogen citrate,22485758,[H+].[H+].C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Ag+],23490006
+Pseudomonas aeruginosa,287,Silver nanowires,23954,[Ag],23224498
+Burkholderia cepacia,292,Silver nitrate,24470,[N+](=O)([O-])[O-].[Ag+],28756196
+Escherichia coli,562,Silver nitrate,24470,[N+](=O)([O-])[O-].[Ag+],28756196
+Kocuria rhizophila,72000,Silver nitrate,24470,[N+](=O)([O-])[O-].[Ag+],28756196
+Pseudomonas aeruginosa,287,Silver nitrate,24470,[N+](=O)([O-])[O-].[Ag+],28756196
+Staphylococcus aureus,1280,Silver nitrate,24470,[N+](=O)([O-])[O-].[Ag+],28756196
+Staphylococcus epidermidis,1282,Silver nitrate,24470,[N+](=O)([O-])[O-].[Ag+],28756196
+Staphylococcus aureus,1280,Silver sulfadiazine,441244,C1=CN=C(N=C1)[N-]S(=O)(=O)C2=CC=C(C=C2)N.[Ag+],23490006
+Staphylococcus aureus,1280,Silver sulphate,159865,[O-]S(=O)(=O)[O-].[Ag+].[Ag+],23490006
+Staphylococcus aureus,1280,Silybin,31553,COC1=C(C=CC(=C1)C2C(OC3=C(O2)C=C(C=C3)C4C(C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O,26273725
+Hepatitis C virus,3052230,Simeprevir,24873435,CC1=C(C=CC2=C1N=C(C=C2OC3CC4C(C3)C(=O)N(CCCCC=CC5CC5(NC4=O)C(=O)NS(=O)(=O)C6CC6)C)C7=NC(=CS7)C(C)C)OC,18678486
+Escherichia coli,562,Sinapic acid,637775,COC1=CC(=CC(=C1O)OC)C=CC(=O)O,24067082
+Streptococcus pneumoniae,1313,Sinefungin,65482,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CC(CCC(C(=O)O)N)N)O)O)N,25050323
+Escherichia coli,562,Sinensetin,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,20163489
+Vibrio harveyi,669,Sinensetin,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,20163489
+Pseudomonas aeruginosa,287,Sodium ascorbate,23667548,C(C(C1C(=C(C(=O)O1)O)[O-])O)O.[Na+],25175797
+Pseudomonas fluorescens,294,Sodium sulfate,24436,[O-]S(=O)(=O)[O-].[Na+].[Na+],2624463
+Actinoplanes missouriensis,1866,Sorbitol,5780,C(C(C(C(C(CO)O)O)O)O)O,17016423
+Escherichia coli,562,Sorbitol,5780,C(C(C(C(C(CO)O)O)O)O)O,17016423
+Streptomyces rubiginosus,1929,Sorbitol,5780,C(C(C(C(C(CO)O)O)O)O)O,17016423
+Bacteroides,816,sorivudine,5282192,C1=C(C(=O)NC(=O)N1C2C(C(C(O2)CO)O)O)C=CBr,9110360
+Bacteroides eggerthii,28111,sorivudine,5282192,C1=C(C(=O)NC(=O)N1C2C(C(C(O2)CO)O)O)C=CBr,9110360
+Vibrio cholerae,666,Spermine,1103,C(CCNCCCN)CNCCCN,28827313
+Actinomyces oris,544580,S-phenyl-L-cysteine,119462,C1=CC=C(C=C1)SCC(C(=O)O)N,25081571
+Streptococcus mutans,1309,S-phenyl-L-cysteine,119462,C1=CC=C(C=C1)SCC(C(=O)O)N,25081571
+Pseudomonas aeruginosa,287,S-phenyl-L-cysteine sulfoxide,101712556,C1=CC=C(C=C1)S(=O)CC(C(=O)O)N,22715388
+Streptococcus mutans,1309,S-propyl-L-cysteine,101975,CCCSCC(C(=O)O)N,25081571
+Mycobacterium tuberculosis,1773,SQ109,5274428,CC(=CCCC(=CCNCCNC1C2CC3CC(C2)CC1C3)C)C,28162983
+Human immunodeficiency virus 1,11676,Stavudine,18283,CC1=CN(C(=O)NC1=O)C2C=CC(O2)CO,8861550
+Vibrio cholerae,666,Stearic acid,5281,CCCCCCCCCCCCCCCCCC(=O)O,26939983
+Escherichia coli,562,Stilbene,638088,C1=CC=C(C=C1)C=CC2=CC=CC=C2,24067082
+Escherichia coli,562,Streptomycin,19649,CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O,7928982
+Staphylococcus aureus,1280,Streptomycin,19649,CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O,21887652
+Pseudomonas aeruginosa,287,Streptomycin,19649,CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O,24705563
+Staphylococcus aureus,1280,Streptorubin B,135515502,CCCCC1CCCCCCC2=CC1=C(N2)C=C3C(=CC(=N3)C4=CC=CN4)OC,26027829
+Escherichia coli,562,Subtilosin,16132390,CCC(C)C(C(=O)NC(C)C(=O)NCC(=O)NC(C)C(=O)NCC(=O)O)NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C1CCCN1C(=O)C(C(C)CC)NC(=O)C2CCCN2C(=O)CNC(=O)C(CC(=O)O)NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CS)NC(=O)C(C)NC(=O)C(C)NC(=O)CNC(=O)C(C(C)CC)NC(=O)C(CO)NC(=O)C(CS)NC(=O)C(C(C)O)NC(=O)C(C)NC(=O)C(CS)NC(=O)CNC(=O)C(CCCCN)NC(=O)C(CC(=O)N)NC(=O)CNC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC(C)C)NC(=O)CNC(=O)C(CC(C)C)NC(=O)CN,27914001
+Gardnerella vaginalis,2702,Subtilosin,16132390,CCC(C)C(C(=O)NC(C)C(=O)NCC(=O)NC(C)C(=O)NCC(=O)O)NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C1CCCN1C(=O)C(C(C)CC)NC(=O)C2CCCN2C(=O)CNC(=O)C(CC(=O)O)NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CS)NC(=O)C(C)NC(=O)C(C)NC(=O)CNC(=O)C(C(C)CC)NC(=O)C(CO)NC(=O)C(CS)NC(=O)C(C(C)O)NC(=O)C(C)NC(=O)C(CS)NC(=O)CNC(=O)C(CCCCN)NC(=O)C(CC(=O)N)NC(=O)CNC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC(C)C)NC(=O)CNC(=O)C(CC(C)C)NC(=O)CN,27914001
+Listeria monocytogenes,1639,Subtilosin,16132390,CCC(C)C(C(=O)NC(C)C(=O)NCC(=O)NC(C)C(=O)NCC(=O)O)NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C1CCCN1C(=O)C(C(C)CC)NC(=O)C2CCCN2C(=O)CNC(=O)C(CC(=O)O)NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CS)NC(=O)C(C)NC(=O)C(C)NC(=O)CNC(=O)C(C(C)CC)NC(=O)C(CO)NC(=O)C(CS)NC(=O)C(C(C)O)NC(=O)C(C)NC(=O)C(CS)NC(=O)CNC(=O)C(CCCCN)NC(=O)C(CC(=O)N)NC(=O)CNC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC(C)C)NC(=O)CNC(=O)C(CC(C)C)NC(=O)CN,27914001
+Campylobacter jejuni,197,Sucrose,5988,C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O,17259368
+Staphylococcus aureus,1280,Sulbactam,130313,CC1(C(N2C(S1(=O)=O)CC2=O)C(=O)O)C,14621983
+Candida albicans,5476,Sulconazole nitrate,65495,C1=CC(=CC=C1CSC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl.[N+](=O)(O)[O-],23689719
+Escherichia coli,562,Sulfacetamide,5320,CC(=O)NS(=O)(=O)C1=CC=C(C=C1)N,13873645
+Escherichia coli,562,Sulfacytine,5322,CCN1C=CC(=NC1=O)NS(=O)(=O)C2=CC=C(C=C2)N,1195474
+Plasmodium falciparum,5833,Sulfadiazine,5215,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,9127492
+Plasmodium falciparum,5833,Sulfadoxine,17134,COC1=C(N=CN=C1OC)NS(=O)(=O)C2=CC=C(C=C2)N,15099990
+Plasmodium falciparum,5833,Sulfalene,9047,COC1=NC=CN=C1NS(=O)(=O)C2=CC=C(C=C2)N,8195839
+Escherichia coli,562,Sulfamerazine,5325,CC1=NC(=NC=C1)NS(=O)(=O)C2=CC=C(C=C2)N,4577373
+Escherichia coli,562,Sulfamethazine,5327,CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C,4577373
+Escherichia coli,562,Sulfamethizole,5328,CC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)N,2372557
+Escherichia coli,562,Sulfamethoxazole,5329,CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N,7486915
+Plasmodium falciparum,5833,Sulfamoxole,12894,CC1=C(OC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C,9127492
+Escherichia coli,562,Sulfanilamide,5333,C1=CC(=CC=C1N)S(=O)(=O)N,9127492
+Escherichia coli,562,Sulfaphenazole,5335,C1=CC=C(C=C1)N2C(=CC=N2)NS(=O)(=O)C3=CC=C(C=C3)N,7486915
+Plasmodium falciparum,5833,Sulfathiazole,5340,C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2,2694948
+Escherichia coli,562,Sulfisoxazole,5344,CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N,7016423
+Escherichia coli,562,Syringic acid,10742,COC1=CC(=CC(=C1O)OC)C(=O)O,24067082
+Pseudomonas aeruginosa,287,Tachyplesin III,16739289,CCC(C)C(C(=O)NC(CS)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CS)C(=O)NC(CCCNC(=N)N)C(=O)N)NC(=O)CNC(=O)C(CCCNC(=N)N)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CS)NC(=O)C(C(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC3=CC=CC=C3)NC(=O)C(CS)NC(=O)C(CC4=CNC5=CC=CC=C54)NC(=O)C(CCCCN)N,18022289
+Proteus mirabilis,584,Tannic acid,16129778,C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OCC3C(C(C(C(O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O,19619987
+Pseudomonas aeruginosa,287,Tannic acid,16129778,C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OCC3C(C(C(C(O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O,21291979
+Escherichia coli,562,Tannic acid,16129778,C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OCC3C(C(C(C(O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O,24067082
+Actinomyces oris,544580,Taurine,1123,C(CS(=O)(=O)O)N,25081571
+Streptococcus mutans,1309,Taurine,1123,C(CS(=O)(=O)O)N,25081571
+Salmonella Typhi,90370,Tazobactam,123630,CC1(C(N2C(S1(=O)=O)CC2=O)C(=O)O)CN3C=CN=N3,10511459
+Hepatitis C virus,3052230,Telaprevir,3010818,CCCC(C(=O)C(=O)NC1CC1)NC(=O)C2C3CCCC3CN2C(=O)C(C(C)(C)C)NC(=O)C(C4CCCCC4)NC(=O)C5=NC=CN=C5,18479202
+Candida albicans,5476,Telekin,12443309,CC12CCCC(=C)C1(CC3C(C2)OC(=O)C3=C)O,26394911
+Pseudomonas aeruginosa,287,Tellurite,115037,[O-][Te](=O)[O-],24958247
+Human immunodeficiency virus 1,11676,Tenofovir,464205,CC(CN1C=NC2=C(N=CN=C21)N)OCP(=O)(O)O,12462284
+Candida albicans,5476,Terconazole,441383,CC(C)N1CCN(CC1)C2=CC=C(C=C2)OCC3COC(O3)(CN4C=NC=N4)C5=C(C=C(C=C5)Cl)Cl,23689719
+Bacillus cereus,1396,Terpinene-4-ol,11230,CC1=CCC(CC1)(C(C)C)O,23789847
+Escherichia coli,562,Terpinene-4-ol,11230,CC1=CCC(CC1)(C(C)C)O,23789847
+Pichia anomala,4927,Terpinene-4-ol,11230,CC1=CCC(CC1)(C(C)C)O,23789847
+Pseudomonas putida,303,Terpinene-4-ol,11230,CC1=CCC(CC1)(C(C)C)O,23789847
+Candida albicans,5476,Tert-butanol,6386,CC(C)(C)O,24688528
+Pseudomonas aeruginosa,287,Tet-20,168510669,CCC(C)C(C(=O)NC(CCCN=C(N)N)C(=O)NC(C(C)C)C(=O)NC(CCCN=C(N)N)C(=O)NC(C(C)C)C(=O)NC(C(C)CC)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCCN)C(=O)NC(CS)C(=O)O)NC(=O)C(CCCN=C(N)N)NC(=O)C(CC1=CNC2=CC=CC=C21)NC(=O)C(CCCN=C(N)N)NC(=O)C(CCCCN)N,21377727
+Pseudomonas aeruginosa,287,Tet-213,164886681,C.[K].[K].[W].[W].[W].[W],21377727
+Staphylococcus aureus,1280,Tet-213,164886681,C.[K].[K].[W].[W].[W].[W],25785171
+Escherichia coli,562,Tetracycline,54675776,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,2200507
+Candida albicans,5476,Thimerosal,16684434,CC[Hg]SC1=CC=CC=C1C(=O)[O-].[Na+],23689719
+Candida albicans,5476,Thonzonium bromide,11102,CCCCCCCCCCCCCCCC[N+](C)(C)CCN(CC1=CC=C(C=C1)OC)C2=NC=CC=N2.[Br-],23689719
+Escherichia coli,562,Thymol,6989,CC1=CC(=C(C=C1)C(C)C)O,27808174
+Streptococcus mutans,1309,Thymol,6989,CC1=CC(=C(C=C1)C(C)C)O,28233286
+Staphylococcus aureus,1280,Ticarcillin,36921,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CSC=C3)C(=O)O)C(=O)O)C,2387996
+Escherichia coli,562,Tigecycline,54686904,CC(C)(C)NCC(=O)NC1=CC(=C2CC3CC4C(C(=O)C(=C(C4(C(=O)C3=C(C2=C1O)O)O)O)C(=O)N)N(C)C)N(C)C,6723578
+Staphylococcus aureus,1280,Tigecycline,54686904,CC(C)(C)NCC(=O)NC1=CC(=C2CC3CC4C(C(=O)C(=C(C4(C(=O)C3=C(C2=C1O)O)O)O)C(=O)N)N(C)C)N(C)C,23965956
+Staphylococcus aureus,1280,Tiliroside,5320686,C1=CC(=CC=C1C=CC(=O)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O)O)O)O,22242149
+Enterobacteria phage T4,2681598,Timolol,33624,CC(C)(C)NCC(COC1=NSN=C1N2CCOCC2)O,10592235
+Candida albicans,5476,Tioconazole,5482,C1=CC(=C(C=C1Cl)Cl)C(CN2C=CN=C2)OCC3=C(SC=C3)Cl,23689719
+Human immunodeficiency virus 1,11676,Tipranavir,54682461,CCCC1(CC(=C(C(=O)O1)C(CC)C2=CC(=CC=C2)NS(=O)(=O)C3=NC=C(C=C3)C(F)(F)F)O)CCC4=CC=CC=C4,11752352
+Escherichia coli,562,Titanium dioxide,26042,O=[Ti]=O,27690228
+Candida albicans,5476,TMB-8,5494,CCN(CC)CCCCCCCCOC(=O)C1=CC(=C(C(=C1)OC)OC)OC,21903824
+Mycobacterium tuberculosis,1773,Tobramycin,36294,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(CC(C(O3)CN)O)N)N,12161746
+Escherichia coli,562,Tobramycin,36294,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(CC(C(O3)CN)O)N)N,15332709
+Pseudomonas aeruginosa,287,Tobramycin,36294,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(CC(C(O3)CN)O)N)N,16940063
+Burkholderia cenocepacia,95486,Tobramycin,36294,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(CC(C(O3)CN)O)N)N,19146953
+Burkholderia multivorans,87883,Tobramycin,36294,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(CC(C(O3)CN)O)N)N,19146953
+Staphylococcus aureus,1280,Tobramycin,36294,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(CC(C(O3)CN)O)N)N,21849157
+Stenotrophomonas maltophilia,40324,Tobramycin,36294,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(CC(C(O3)CN)O)N)N,21849157
+Candida albicans,5476,Tomentosin,155173,CC1CC2C(CC=C1CCC(=O)C)C(=C)C(=O)O2,26394911
+Candida albicans,5476,Toremifene,3005573,CN(C)CCOC1=CC=C(C=C1)C(=C(CCCl)C2=CC=CC=C2)C3=CC=CC=C3,25288093
+Candida dubliniensis,42374,Toremifene,3005573,CN(C)CCOC1=CC=C(C=C1)C(=C(CCCl)C2=CC=CC=C2)C3=CC=CC=C3,25288093
+Candida glabrata,5478,Toremifene,3005573,CN(C)CCOC1=CC=C(C=C1)C(=C(CCCl)C2=CC=CC=C2)C3=CC=CC=C3,25288093
+Candida krusei,4909,Toremifene,3005573,CN(C)CCOC1=CC=C(C=C1)C(=C(CCCl)C2=CC=CC=C2)C3=CC=CC=C3,25288093
+Pseudomonas aeruginosa,287,Toremifene,3005573,CN(C)CCOC1=CC=C(C=C1)C(=C(CCCl)C2=CC=CC=C2)C3=CC=CC=C3,25288093
+Staphylococcus aureus,1280,Toremifene,3005573,CN(C)CCOC1=CC=C(C=C1)C(=C(CCCl)C2=CC=CC=C2)C3=CC=CC=C3,25288093
+Staphylococcus epidermidis,1282,Toremifene,3005573,CN(C)CCOC1=CC=C(C=C1)C(=C(CCCl)C2=CC=CC=C2)C3=CC=CC=C3,25288093
+Candida albicans,5476,trans-2-dodecenoic acid,5282729,CCCCCCCCCC=CC(=O)O,21778264
+Vibrio cholerae,666,trans-2-Nonenal,5283335,CCCCCCC=CC=O,21249192
+Vibrio harveyi,669,trans-2-Nonenal,5283335,CCCCCCC=CC=O,21249192
+Vibrio cholerae,666,trans-2-Pentenal,5364752,CCC=CC=O,21249192
+Vibrio harveyi,669,trans-2-Pentenal,5364752,CCC=CC=O,21249192
+Pseudomonas aeruginosa,287,Tricaine,261501,CCOC(=O)C1=CC(=CC=C1)N.CS(=O)(=O)O,25537269
+Streptococcus mutans,1309,Triclosan,5564,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,17220400
+Stenotrophomonas maltophilia,40324,Trimethoprim-sulfamethoxazole,358641,CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N.COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N,14693533
+Vibrio harveyi,669,Trimethoxyflavone,53666501,COC1=C(C2=C(C=C1)OC(=C(C2=O)OC)C3=CC=CC=C3)OC,26140409
+Haemophilus influenzae,727,Trovafloxacin,62959,C1C2C(C2N)CN1C3=C(C=C4C(=O)C(=CN(C4=N3)C5=C(C=C(C=C5)F)F)C(=O)O)F,10428901
+Candida albicans,5476,Tyrosol,10393,C1=CC(=CC=C1CCO)O,26801208
+Candida glabrata,5478,Tyrosol,10393,C1=CC(=CC=C1CCO)O,26801208
+Streptococcus mutans,1309,Tyrosol,10393,C1=CC(=CC=C1CCO)O,26801208
+Candida albicans,5476,Tyrphostin 9,5614,CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)C=C(C#N)C#N,21903824
+Candida albicans,5476,Tyrphostin AG1478,2051,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Cl)OC,21903824
+Escherichia coli,562,Umbelliferone,5281426,C1=CC(=CC2=C1C=CC(=O)O2)O,25027570
+Escherichia coli,562,Undecanoic acid,8180,CCCCCCCCCCC(=O)O,25656290
+Klebsiella pneumoniae,573,Undecanoic acid,8180,CCCCCCCCCCC(=O)O,25656290
+Proteus mirabilis,584,Undecanoic acid,8180,CCCCCCCCCCC(=O)O,25656290
+Proteus vulgaris,585,Undecanoic acid,8180,CCCCCCCCCCC(=O)O,25656290
+Serratia marcescens,615,Undecanoic acid,8180,CCCCCCCCCCC(=O)O,25656290
+Escherichia coli,562,Uracil,1174,C1=CNC(=O)NC1=O,17016423
+Escherichia coli,562,Ursolic acid,64945,CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C(=O)O,16000817
+Pseudomonas aeruginosa,287,Ursolic acid,64945,CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C(=O)O,16000817
+Vibrio harveyi,669,Ursolic acid,64945,CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C(=O)O,16000817
+Candida albicans,5476,Usnic acid,5646,CC1=C(C(=C2C(=C1O)C3(C(=CC(=O)C(C3=O)C(=O)C)O2)C)C(=O)C)O,26411891
+Amycolatopsis orientalis,31958,Vancomycin,14969,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,15122882
+Staphylococcus aureus,1280,Vancomycin,14969,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,16621147
+Enterococcus faecalis,1351,Vancomycin,14969,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,18430491
+Enterococcus faecium,1352,Vancomycin,14969,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,20404117
+Staphylococcus capitis,29388,Vancomycin,14969,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,26828772
+Staphylococcus caprae,29380,Vancomycin,14969,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,26828772
+Staphylococcus chromogenes,46126,Vancomycin,14969,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,26828772
+Staphylococcus cohnii,29382,Vancomycin,14969,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,26828772
+Staphylococcus epidermidis,1282,Vancomycin,14969,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O,26828772
+Escherichia coli,562,Vanillic acid,8468,COC1=C(C=CC(=C1)C(=O)O)O,24067082
+Aeromonas hydrophila,644,Vanillin,1183,COC1=C(C=CC(=C1)C=O)O,23539151
+Escherichia coli,562,Vanillin,1183,COC1=C(C=CC(=C1)C=O)O,27808174
+Pseudomonas aeruginosa,287,Vanillylacetone,31211,CC(=O)CCC1=CC(=C(C=C1)O)OC,23831483
+Mycobacterium tuberculosis,1773,Verapamil,2520,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC,28162983
+Human herpesvirus 3,10335,Vidarabine,21704,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N,10592235
+Human herpesvirus 4,10376,Vidarabine,21704,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N,16797734
+Mycobacterium tuberculosis,1773,Viomycin,135398671,C1C(N=C(NC1O)N)C2C(=O)NCC(C(=O)NC(C(=O)NC(C(=O)NC(=CNC(=O)N)C(=O)N2)CO)CO)NC(=O)CC(CCCN)N,20154709
+Enterococcus faecium,1352,Virginiamycin M1,5459319,CC1C=CC(=O)NCC=CC(=CC(CC(=O)CC2=NC(=CO2)C(=O)N3CCC=C3C(=O)OC1C(C)C)O)C,17016423
+Acinetobacter nosocomialis,106654,Virstatin,145949,C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCC(=O)O,2597561
+Escherichia coli,562,Vitamin C,54670067,C(C(C1C(=C(C(=O)O1)O)O)O)O,21930760
+Pseudomonas aeruginosa,287,Vitexin,5280441,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O,27000525
+Candida albicans,5476,Voriconazole,71616,CC(C1=NC=NC=C1F)C(CN2C=NC=N2)(C3=C(C=C(C=C3)F)F)O,23689719
+Enterococcus faecalis,1351,VS2,445490,C1=CC=C(C=C1)CCC(C(CS(=O)(=O)CC2=CC=CC=C2)S)NC(=O)C(CC3=CC=CC=C3)NC(=O)OCC4=CC=CC=C4,24966779
+Candida albicans,5476,W-7 Hydrochloride,124887,C1=CC2=C(C=CC=C2Cl)C(=C1)S(=O)(=O)NCCCCCCN.Cl,21903824
+Candida albicans,5476,YC-1 compound,5712,C1=CC=C(C=C1)CN2C3=CC=CC=C3C(=N2)C4=CC=C(O4)CO,21903824
+Candida albicans,5476,Yohimbine hydrochloride,6169,COC(=O)C1C(CCC2C1CC3C4=C(CCN3C2)C5=CC=CC=C5N4)O.Cl,23689719
+Human immunodeficiency virus 1,11676,Zalcitabine,24066,C1CC(OC1CO)N2C=CC(=NC2=O)N,7614775
+Influenza B virus,11520,Zanamivir,60855,CC(=O)NC1C(C=C(OC1C(C(CO)O)O)C(=O)O)N=C(N)N,18488077
+Pseudomonas aeruginosa,287,Zeaxanthin,5280899,CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(CC(CC2(C)C)O)C)C)C,28255686
+Human immunodeficiency virus 1,11676,Zidovudine,35370,CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-],9084959
+Escherichia coli,562,Zinc,23994,[Zn],23958904
+Pseudomonas aeruginosa,287,Zinc Dichloride,5727,Cl[Zn]Cl,2495824
+Pseudomonas aeruginosa,287,Zinc Nitrate,24518,[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Zn+2],24958247
+Escherichia coli,562,Zinc oxide,14806,O=[Zn],24958247
+Pseudomonas aeruginosa,287,Zinc oxide,14806,O=[Zn],24958247
+Staphylococcus aureus,1280,Zinc oxide,14806,O=[Zn],24958247
+Burkholderia cepacia,292,Zinc sulfate,24424,[O-]S(=O)(=O)[O-].[Zn+2],28756196
+Escherichia coli,562,Zinc sulfate,24424,[O-]S(=O)(=O)[O-].[Zn+2],28756196
+Kocuria rhizophila,72000,Zinc sulfate,24424,[O-]S(=O)(=O)[O-].[Zn+2],28756196
+Pseudomonas aeruginosa,287,Zinc sulfate,24424,[O-]S(=O)(=O)[O-].[Zn+2],28756196
+Staphylococcus aureus,1280,Zinc sulfate,24424,[O-]S(=O)(=O)[O-].[Zn+2],28756196
+Staphylococcus epidermidis,1282,Zinc sulfate,24424,[O-]S(=O)(=O)[O-].[Zn+2],28756196
+Candida albicans,5476,Zotepine,5736,CN(C)CCOC1=CC2=CC=CC=C2SC3=C1C=C(C=C3)Cl,23689719
